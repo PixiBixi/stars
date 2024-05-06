@@ -732,6 +732,7 @@
 
 ## devops 
 
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [evryn/kermoo](https://github.com/evryn/kermoo) - 🪱 Kermoo offers resilience testing with Process Delays, Back-end Failures, CPU Simulations, and Memory Leaks. Boost your system reliability effortlessly.
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification
@@ -1405,7 +1406,6 @@
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
 - [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 
@@ -1612,6 +1612,7 @@
 
 ## kubernetes 
 
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs
@@ -2252,6 +2253,7 @@
 
 ## others 
 
+- [restanrm/dotfiles](https://github.com/restanrm/dotfiles) - My own dotfiles
 - [1buran/rHttp](https://github.com/1buran/rHttp) - REPL for HTTP
 - [JamesTGrant/kubectl-debug](https://github.com/JamesTGrant/kubectl-debug) - Debug a target container in a Kubernetes cluster by automatically creating a new, non-invasive, 'debug' container in the same pid, network, user, and ipc namespace as the target container without disr
 - [grafana/unused](https://github.com/grafana/unused) - CLI tool, Prometheus exporter, and Go module to list your unused disks in all cloud providers
@@ -3185,6 +3187,7 @@
 
 ## security 
 
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [square/sudo_pair](https://github.com/square/sudo_pair) - Plugin for sudo that requires another human to approve and monitor privileged sudo sessions
 - [bank-vaults/bank-vaults](https://github.com/bank-vaults/bank-vaults) - A Vault swiss-army knife: A CLI tool to init, unseal and configure Vault (auth methods, secret engines).
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
