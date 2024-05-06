@@ -223,6 +223,7 @@
 
 ## Go 
 
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [1buran/rHttp](https://github.com/1buran/rHttp) - REPL for HTTP
 - [docker/cli](https://github.com/docker/cli) - The Docker CLI
 - [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
@@ -1533,6 +1534,7 @@
 
 ## Vim Script 
 
+- [restanrm/dotfiles](https://github.com/restanrm/dotfiles) - My own dotfiles
 - [neomake/neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [chrisbra/Colorizer](https://github.com/chrisbra/Colorizer) - color hex codes and color names
