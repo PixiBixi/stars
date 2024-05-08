@@ -628,7 +628,7 @@
 
 ## css 
 
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -1202,6 +1202,7 @@
 - [Code-Hex/pget](https://github.com/Code-Hex/pget) - The fastest, resumable file download client
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
+- [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
 - [rylio/ytdl](https://github.com/rylio/ytdl) - YouTube download library and CLI written in Go
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
@@ -1276,7 +1277,7 @@
 - [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [percona/percona-docker](https://github.com/percona/percona-docker) - Collection of Dockerfiles for Percona software. See individual directories for more details.
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
@@ -1426,7 +1427,7 @@
 
 ## html 
 
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [Monitorr/logarr](https://github.com/Monitorr/logarr) - “Logarr” is a self-hosted PHP web app that consolidates, formats, and displays log and text files for easy analysis and monitoring.
 - [Monitorr/Monitorr](https://github.com/Monitorr/Monitorr) - "Monitorr” is a self-hosted PHP web app that monitors the status of local and remote network services, websites, and applications.
@@ -1507,7 +1508,7 @@
 ## javascript 
 
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [dnakov/little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch & opensearch
@@ -1600,6 +1601,7 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [ohhsodead/FileMasta](https://github.com/ohhsodead/FileMasta) - A search application to explore, discover and share online files
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+- [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [wellsjo/JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI app for editing, visualizing, and manipulating JSON data
 - [youknowone/VisualJSON](https://github.com/youknowone/VisualJSON) - JSON pretty-viewer for OS X.
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
@@ -2062,7 +2064,7 @@
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [networkupstools/nut](https://github.com/networkupstools/nut) - The Network UPS Tools repository. UPS management protocol Informational RFC 9271 published by IETF at https://www.rfc-editor.org/info/rfc9271 Please star NUT on GitHub, this helps with sponsorships!
-- [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
+- [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [lebinh/ngxtop](https://github.com/lebinh/ngxtop) - Real-time metrics for nginx server
@@ -2163,7 +2165,7 @@
 
 ## nodejs 
 
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [kafkajs/confluent-schema-registry](https://github.com/kafkajs/confluent-schema-registry) - is a library that makes it easier to interact with the Confluent schema registry
 - [traceo-dev/traceo](https://github.com/traceo-dev/traceo) - Traceo is a self-hosted bug tracking and performance monitoring system.
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
@@ -3067,7 +3069,7 @@
 
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
@@ -3097,7 +3099,7 @@
 
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments.
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
@@ -3572,7 +3574,7 @@
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
