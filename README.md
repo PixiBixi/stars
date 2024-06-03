@@ -451,7 +451,7 @@
 - [fabiofalci/sconsify](https://github.com/fabiofalci/sconsify) - A spotify console application
 - [cortex/gopass](https://github.com/cortex/gopass) - Gopass: A simple password-store GUI
 - [cardigann/cardigann](https://github.com/cardigann/cardigann) - A proxy server for adding new indexers to Sonarr, SickRage and other media managers
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [noqcks/gucci](https://github.com/noqcks/gucci) - Templating on the command line with sprig.
 - [sourcegraph/checkup](https://github.com/sourcegraph/checkup) - Distributed, lock-free, self-hosted health checks and status pages
