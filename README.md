@@ -1547,7 +1547,7 @@
 
 - [restanrm/dotfiles](https://github.com/restanrm/dotfiles) - My own dotfiles
 - [neomake/neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [chrisbra/Colorizer](https://github.com/chrisbra/Colorizer) - color hex codes and color names
 - [ap/vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing
