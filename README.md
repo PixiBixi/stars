@@ -1010,7 +1010,7 @@
 
 ## Python 
 
-- [eslam-gomaa/kptop](https://github.com/eslam-gomaa/kptop) - CLI tool for Kubernetes that provides pretty monitoring for Nodes, Pods, Containers, and PVCs resources on the terminal through Prometheus metrics
+- [eslam-gomaa/kptop](https://github.com/eslam-gomaa/kptop) - A Python tool that offers beautiful CLI monitoring based on Prometheus metrics, with Kubernetes integration through PodPortForward
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [hellofresh/eks-rolling-update](https://github.com/hellofresh/eks-rolling-update) - EKS Rolling Update is a utility for updating the launch configuration of worker nodes in an EKS cluster.
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
