@@ -2319,6 +2319,8 @@
 
 ## others 
 
+- [facetoe/promformat](https://github.com/facetoe/promformat) - PromQL formatter
+- [google/capirca](https://github.com/google/capirca) - Multi-platform ACL generation system
 - [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - 
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [rfmoz/grafana-dashboards](https://github.com/rfmoz/grafana-dashboards) - Grafana dashboards
