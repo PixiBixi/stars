@@ -225,6 +225,8 @@
 
 ## Go 
 
+- [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output
+- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [corneliusweig/ketall](https://github.com/corneliusweig/ketall) - Like `kubectl get all`, but get really all resources
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
