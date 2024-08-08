@@ -1356,6 +1356,7 @@
 
 ## hacktoberfest 
 
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
 - [stakater/IngressMonitorController](https://github.com/stakater/IngressMonitorController) - A Kubernetes controller to watch ingresses and create liveness alerts for your apps/microservices in UptimeRobot, StatusCake, Pingdom, etc.  – [✩Star] if you're using it!
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
@@ -1997,6 +1998,7 @@
 
 ## lua 
 
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering,
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
@@ -2260,6 +2262,7 @@
 
 ## neovim 
 
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [neomake/neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
@@ -3807,6 +3810,7 @@
 
 ## vim 
 
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [neomake/neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
