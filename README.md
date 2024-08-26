@@ -929,7 +929,7 @@
 - [gajus/xhprof.io](https://github.com/gajus/xhprof.io) - GUI to analyze the profiling data collected using XHProf – A Hierarchical Profiler for PHP.
 - [phacility/xhprof](https://github.com/phacility/xhprof) - XHProf is a function-level hierarchical profiler for PHP and has a simple HTML based user interface.
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so
-- [sergix44/xbackbone](https://github.com/sergix44/xbackbone) - A lightweight file manager with full ShareX support and more
+- [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
 - [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
 - [froxlor/Froxlor](https://github.com/froxlor/Froxlor) - The server administration software for your needs - The official Froxlor development Git repository
 - [Athlon1600/youtube-downloader](https://github.com/Athlon1600/youtube-downloader) - :tv: PHP based alternative to youtube-dl and yt-dlp. Active and frequently updated! :star:
