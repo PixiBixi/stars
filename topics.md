@@ -1151,6 +1151,7 @@
 
 ## go 
 
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [k8tz/k8tz](https://github.com/k8tz/k8tz) - Kubernetes admission controller and a CLI tool to inject timezones into Pods and CronJobs
@@ -1230,6 +1231,7 @@
 
 ## golang 
 
+- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [xendit/kompare](https://github.com/xendit/kompare) - Kompare is a CLI tool to compare two kubernetes cluster and their resources.
@@ -1467,7 +1469,7 @@
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
-- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligenc
+- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, build your taylor-made EASM tool, colle
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [Scuilion/markdown-drawer](https://github.com/Scuilion/markdown-drawer) - Simplify navigation in large markdown files.
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
@@ -1747,6 +1749,7 @@
 
 ## kubernetes 
 
+- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes
 - [xendit/kompare](https://github.com/xendit/kompare) - Kompare is a CLI tool to compare two kubernetes cluster and their resources.
 - [unagex/kondense](https://github.com/unagex/kondense) - Automated resources sizing tool for containers in kubernetes
@@ -2334,7 +2337,7 @@
 ## nextjs 
 
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
-- [gitroomhq/gitroom](https://github.com/gitroomhq/gitroom) - 📨 Schedule social media and articles. Exchange or buy posts from other members 👨🏻‍💻. Monitor your GitHub trending, and so much more 📈.
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media and articles. Exchange or buy posts from other members 👨🏻‍💻. Monitor your GitHub trending, and so much more 📈.
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
@@ -2417,7 +2420,7 @@
 ## open-source 
 
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
-- [gitroomhq/gitroom](https://github.com/gitroomhq/gitroom) - 📨 Schedule social media and articles. Exchange or buy posts from other members 👨🏻‍💻. Monitor your GitHub trending, and so much more 📈.
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media and articles. Exchange or buy posts from other members 👨🏻‍💻. Monitor your GitHub trending, and so much more 📈.
 - [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, AI-first alternative to Jira, Linear
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [hellofresh/eks-rolling-update](https://github.com/hellofresh/eks-rolling-update) - EKS Rolling Update is a utility for updating the launch configuration of worker nodes in an EKS cluster.
@@ -2449,12 +2452,13 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
-- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligenc
+- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, build your taylor-made EASM tool, colle
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [elceef/dnstwist](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
 
 ## others 
 
+- [kubernetes-sigs/prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) - An implementation of the custom.metrics.k8s.io API using Prometheus
 - [jaypipes/ghw](https://github.com/jaypipes/ghw) - Go HardWare discovery/inspection library
 - [kubernetes-sigs/ingress2gateway](https://github.com/kubernetes-sigs/ingress2gateway) - Convert Ingress resources to Gateway API resources
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
@@ -2466,7 +2470,7 @@
 - [google/capirca](https://github.com/google/capirca) - Multi-platform ACL generation system
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [rfmoz/grafana-dashboards](https://github.com/rfmoz/grafana-dashboards) - Grafana dashboards
-- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free RDS Alternative
+- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free & Better RDS Alternative —— Pigsty
 - [restanrm/dotfiles](https://github.com/restanrm/dotfiles) - My own dotfiles
 - [1buran/rHttp](https://github.com/1buran/rHttp) - REPL for HTTP
 - [JamesTGrant/kubectl-debug](https://github.com/JamesTGrant/kubectl-debug) - Debug a target container in a Kubernetes cluster by automatically creating a new, non-invasive, 'debug' container in the same pid, network, user, and ipc namespace as the target container without disr
@@ -2846,7 +2850,7 @@
 - [dominictarr/JSON.sh](https://github.com/dominictarr/JSON.sh) - a pipeable JSON parser written in Bash
 - [dropbox/lepton](https://github.com/dropbox/lepton) - Lepton is a tool and file format for losslessly compressing JPEGs by an average of 22%.
 - [alexgorbatchev/nginx-plex-deluge-proxy](https://github.com/alexgorbatchev/nginx-plex-deluge-proxy) - This is an NGINX configuration for Plex and Deluge reverse proxy setup
-- [nginx/nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to ngi
+- [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) - Textual is an IRC client for OS X
 - [scopatz/nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
 - [debops/debops-tools](https://github.com/debops/debops-tools) - Your Debian-based data center in a box
@@ -3196,7 +3200,6 @@
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [rackerlabs/scantron](https://github.com/rackerlabs/scantron) - A distributed nmap / masscan scanning framework complete with scan scheduling, engine pooling, subsequent scan port diff-ing, and an API client for automation workflows.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
-- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligenc
 - [eon01/kubernetes-workshop](https://github.com/eon01/kubernetes-workshop) - ⚙️ A Gentle introduction to Kubernetes with more than just the basics. 🌟 Give it a star if you like it.
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [raymondbutcher/pretf](https://github.com/raymondbutcher/pretf) - Generate Terraform code with Python
@@ -3287,6 +3290,7 @@
 
 ## react 
 
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, AI-first alternative to Jira, Linear
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments.
@@ -3419,6 +3423,7 @@
 
 ## security 
 
+- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [moul/sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu) - The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
@@ -3454,7 +3459,7 @@
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
 - [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 - [scipag/vulscan](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE
-- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligenc
+- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, build your taylor-made EASM tool, colle
 - [vdeville/ssh-login-alert-telegram](https://github.com/vdeville/ssh-login-alert-telegram) - Recieive telegram notfications when user connect to a server
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
@@ -3829,7 +3834,7 @@
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - manage multiple kubectl port-forward commands, with support for UDP, K8s proxy, and github state sync.
-- [gitroomhq/gitroom](https://github.com/gitroomhq/gitroom) - 📨 Schedule social media and articles. Exchange or buy posts from other members 👨🏻‍💻. Monitor your GitHub trending, and so much more 📈.
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media and articles. Exchange or buy posts from other members 👨🏻‍💻. Monitor your GitHub trending, and so much more 📈.
 - [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, AI-first alternative to Jira, Linear
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
