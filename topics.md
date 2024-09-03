@@ -2454,6 +2454,7 @@
 
 ## others 
 
+- [clowdhaus/eksup](https://github.com/clowdhaus/eksup) - EKS cluster upgrade guidance
 - [kubernetes-sigs/prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) - An implementation of the custom.metrics.k8s.io API using Prometheus
 - [jaypipes/ghw](https://github.com/jaypipes/ghw) - Go HardWare discovery/inspection library
 - [kubernetes-sigs/ingress2gateway](https://github.com/kubernetes-sigs/ingress2gateway) - Convert Ingress resources to Gateway API resources
