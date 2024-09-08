@@ -95,6 +95,7 @@
 - [https](#https)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
+- [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
 - [ipfs](#ipfs)
@@ -1609,6 +1610,10 @@
 ## image-processing 
 
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+
+## instagram 
+
+- [terkelg/ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App.
 
 ## ios 
 
