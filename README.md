@@ -227,6 +227,7 @@
 
 ## Go 
 
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts
 - [jlandowner/helm-chartsnap](https://github.com/jlandowner/helm-chartsnap) - Snapshot testing tool for Helm charts
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -1296,7 +1297,7 @@
 - [jubako/arx](https://github.com/jubako/arx) - Store files and directory in an archive. Like tar, but faster and with direct random access.
 - [clowdhaus/eksup](https://github.com/clowdhaus/eksup) - EKS cluster upgrade guidance
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward on steroids 🦀  |  manage and share multiple k8s port forwards - with support for UDP, proxy through the k8s cluster, and github state sync.
+- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward on steroids 🦀  manage and share multiple k8s port forwards configurations- with support for UDP, proxy through the k8s cluster, and github state sync.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [aws/aws-secretsmanager-agent](https://github.com/aws/aws-secretsmanager-agent) - The AWS Secrets Manager Agent is a local HTTP service that you can install and use in your compute environments to read secrets from Secrets Manager and cache them in memory.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
