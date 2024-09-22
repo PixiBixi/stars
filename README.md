@@ -605,7 +605,7 @@
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes
 - [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-first alternative to Kafka by decoupling durability to S3 and EBS. 10x cost-effective. Autoscale in seconds. Single-digit ms latency.
 - [open-job/openjob](https://github.com/open-job/openjob) - Distributed high performance task scheduling framework
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code and from the UI.
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
@@ -1296,7 +1296,7 @@
 - [jubako/arx](https://github.com/jubako/arx) - Store files and directory in an archive. Like tar, but faster and with direct random access.
 - [clowdhaus/eksup](https://github.com/clowdhaus/eksup) - EKS cluster upgrade guidance
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward on steroids 🦀  manage and share multiple k8s port forwards configurations- with support for UDP, proxy through the k8s cluster, and github state sync.
+- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward on steroids 🦀  Easily manage and share multiple k8s port forwards configurations from the menu bar (GUI) or via terminal (TUI)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [aws/aws-secretsmanager-agent](https://github.com/aws/aws-secretsmanager-agent) - The AWS Secrets Manager Agent is a local HTTP service that you can install and use in your compute environments to read secrets from Secrets Manager and cache them in memory.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
