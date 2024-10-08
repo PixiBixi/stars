@@ -292,7 +292,7 @@
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering
 - [LeanerCloud/AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using Stac
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Open-source workflow automation platform. Orchestrate any language using YAML, hundreds of integrations. Alternative to Airflow, n8n, RunDeck, Camunda, Jenkins...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
@@ -809,7 +809,7 @@
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [livecycle/preevy](https://github.com/livecycle/preevy) - Quickly deploy preview environments to the cloud!
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Open-source workflow automation platform. Orchestrate any language using YAML, hundreds of integrations. Alternative to Airflow, n8n, RunDeck, Camunda, Jenkins...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [traceo-dev/traceo](https://github.com/traceo-dev/traceo) - Traceo is a self-hosted bug tracking and performance monitoring system.
@@ -1438,7 +1438,7 @@
 - [kube-green/kube-green](https://github.com/kube-green/kube-green) - A K8s operator to reduce CO2 footprint of your clusters
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [percona/rds_exporter](https://github.com/percona/rds_exporter) - AWS RDS exporter for Prometheus
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Open-source workflow automation platform. Orchestrate any language using YAML, hundreds of integrations. Alternative to Airflow, n8n, RunDeck, Camunda, Jenkins...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
@@ -1653,7 +1653,7 @@
 
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Open-source workflow automation platform. Orchestrate any language using YAML, hundreds of integrations. Alternative to Airflow, n8n, RunDeck, Camunda, Jenkins...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
 - [traceo-dev/traceo](https://github.com/traceo-dev/traceo) - Traceo is a self-hosted bug tracking and performance monitoring system.
 - [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 - [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
@@ -2068,7 +2068,7 @@
 
 ## low-code 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Open-source workflow automation platform. Orchestrate any language using YAML, hundreds of integrations. Alternative to Airflow, n8n, RunDeck, Camunda, Jenkins...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
 
 ## lua 
 
