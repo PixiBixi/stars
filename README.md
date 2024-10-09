@@ -1313,7 +1313,6 @@
 - [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
-- [curiefense/curiefense](https://github.com/curiefense/curiefense) - Curiefense is a unified, open source platform protecting cloud native applications.
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
