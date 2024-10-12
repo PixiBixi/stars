@@ -482,7 +482,6 @@
 - [amimof/node-cert-exporter](https://github.com/amimof/node-cert-exporter) - An SSL certificate Prometheus exporter
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
-- [pritunl/pritunl-client-electron](https://github.com/pritunl/pritunl-client-electron) - Pritunl OpenVPN client
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [mattn/docx2md](https://github.com/mattn/docx2md) - Convert Microsoft Word Document to Markdown
@@ -1599,6 +1598,7 @@
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
+- [pritunl/pritunl-client-electron](https://github.com/pritunl/pritunl-client-electron) - Pritunl OpenVPN client
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
