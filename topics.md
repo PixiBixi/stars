@@ -2507,6 +2507,7 @@
 
 ## others 
 
+- [argoproj-labs/argocd-autopilot](https://github.com/argoproj-labs/argocd-autopilot) - Argo-CD Autopilot
 - [target/reuse](https://github.com/target/reuse) - A simple Golang app to test TCP and SSL/TLS session reuse.
 - [target/goalert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert
 - [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
