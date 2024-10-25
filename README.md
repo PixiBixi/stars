@@ -225,6 +225,8 @@
 
 ## Go 
 
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+- [doitintl/kubeip](https://github.com/doitintl/kubeip) - Assign static public IPs to Kubernetes nodes (GKE, EKS)
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
 - [argoproj-labs/argocd-autopilot](https://github.com/argoproj-labs/argocd-autopilot) - Argo-CD Autopilot
 - [rekuberate-io/sleepcycles](https://github.com/rekuberate-io/sleepcycles) - Define sleep & wake up cycles for your Kubernetes resources. Automatically schedule to shutdown Deployments, CronJobs, StatefulSets and HorizontalPodAutoscalers that occupy resources in your cluster a
@@ -996,7 +998,7 @@
 - [Raikia/FiercePhish](https://github.com/Raikia/FiercePhish) - FiercePhish is a full-fledged phishing framework to manage all phishing engagements.  It allows you to track separate phishing campaigns, schedule sending of emails, and much more.
 - [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
 - [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord) - A pure PHP library for reading and writing word processing documents
-- [cypht-org/cypht](https://github.com/cypht-org/cypht) - Cypht: Lightweight Open Source webmail aggregator [PHP, JS]
+- [cypht-org/cypht](https://github.com/cypht-org/cypht) - Cypht: Lightweight Open Source webmail aggregator [PHP, JS].  Supports IMAP/SMTP, JMAP and soon EWS
 - [phpseclib/phpseclib](https://github.com/phpseclib/phpseclib) - PHP Secure Communications Library
 - [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [bit3archive/faker-cli](https://github.com/bit3archive/faker-cli) - [PHP / CLI] Command Line Tool for the Faker PHP library.
@@ -1297,6 +1299,7 @@
 
 ## Rust 
 
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [jubako/arx](https://github.com/jubako/arx) - Store files and directory in an archive. Like tar, but faster and with direct random access.
@@ -1549,6 +1552,8 @@
 
 ## TypeScript 
 
+- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
+- [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [finic-ai/finic](https://github.com/finic-ai/finic) - Stealth browsers as a service. Connect your scraper or automation to a fleet of cloud-hosted browsers configured for reliability and stealth.
 - [AnatolyUss/nmig](https://github.com/AnatolyUss/nmig) - NMIG is a database migration tool, written in Node.js and highly inspired by FromMySqlToPostgreSql.
