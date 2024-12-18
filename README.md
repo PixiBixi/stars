@@ -62,7 +62,7 @@
 
 ## C 
 
-- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is an ebpf based networking analysis tool. It can visualize the time packets spend in the kernel, analyze requests/responses in command line, and more...
+- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is an ebpf based networking analysis tool. It can visualize the time packets spend in the kernel, analyze requests/responses in command line, suppport various L7 protocols like HTTP/Redis/MySQL
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 - [aperezdc/ngx-fancyindex](https://github.com/aperezdc/ngx-fancyindex) - Fancy indexes module for the Nginx web server
@@ -1311,6 +1311,7 @@
 
 ## Ruby 
 
+- [snmaynard/redis-audit](https://github.com/snmaynard/redis-audit) - 
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [jeremycole/innodb_ruby](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby
@@ -1699,7 +1700,7 @@
 
 - [restanrm/dotfiles](https://github.com/restanrm/dotfiles) - My own dotfiles
 - [neomake/neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular configuration of Vim and Neovim
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [chrisbra/Colorizer](https://github.com/chrisbra/Colorizer) - color hex codes and color names
 - [ap/vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing
