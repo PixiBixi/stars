@@ -224,7 +224,7 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [traceo-dev/traceo](https://github.com/traceo-dev/traceo) - Traceo is a self-hosted bug tracking and performance monitoring system.
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Open Source ElasticSearch Alternative. Parseable helps you search and get insights from your logs in the most simple way possible.
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is a disk less, cloud native database for logs, observability, security, and compliance. Parseable is built with focus on simplicity & resource efficiency.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
@@ -313,7 +313,6 @@
 - [livecycle/preevy](https://github.com/livecycle/preevy) - Quickly deploy preview environments to the cloud!
 - [Mindbaz/awesome-opensource-email](https://github.com/Mindbaz/awesome-opensource-email) - Awesome Opensource Email Resources
 - [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) - Curated list of resources on HashiCorp's Terraform and OpenTofu
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [grafana/awesome-k6](https://github.com/grafana/awesome-k6) - A curated list of awesome tools, content and projects using k6
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
@@ -815,6 +814,7 @@
 
 ## devops 
 
+- [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [kubeshop/botkube](https://github.com/kubeshop/botkube) - An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Kubernetes-native testing framework for test execution and orchestration
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - Monokle is a set of OSS tools designed to help create and maintain high-quality Kubernetes configurations throughout the application lifecycle
@@ -919,7 +919,7 @@
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Open Source ElasticSearch Alternative. Parseable helps you search and get insights from your logs in the most simple way possible.
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is a disk less, cloud native database for logs, observability, security, and compliance. Parseable is built with focus on simplicity & resource efficiency.
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
@@ -1833,6 +1833,7 @@
 
 ## kubernetes 
 
+- [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [lwolf/kube-cleanup-operator](https://github.com/lwolf/kube-cleanup-operator) - Kubernetes Operator to automatically delete completed Jobs and their Pods
 - [kubeshop/botkube](https://github.com/kubeshop/botkube) - An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
 - [enix/x509-certificate-exporter](https://github.com/enix/x509-certificate-exporter) - A Prometheus exporter to monitor x509 certificates expiration in Kubernetes clusters or standalone
@@ -1965,7 +1966,7 @@
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [sl1pm4t/k2tf](https://github.com/sl1pm4t/k2tf) - Kubernetes YAML to Terraform HCL converter
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Open Source ElasticSearch Alternative. Parseable helps you search and get insights from your logs in the most simple way possible.
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is a disk less, cloud native database for logs, observability, security, and compliance. Parseable is built with focus on simplicity & resource efficiency.
 - [johanhaleby/kubetail](https://github.com/johanhaleby/kubetail) - Bash script to tail Kubernetes logs from multiple pods at the same time
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
 - [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
@@ -2069,7 +2070,7 @@
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Open Source ElasticSearch Alternative. Parseable helps you search and get insights from your logs in the most simple way possible.
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is a disk less, cloud native database for logs, observability, security, and compliance. Parseable is built with focus on simplicity & resource efficiency.
 - [roddhjav/apparmor.d](https://github.com/roddhjav/apparmor.d) - Full set of AppArmor profiles (~ 1500 profiles)
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
@@ -2154,7 +2155,6 @@
 - [gianlucam76/k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner) - Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering,
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running) - CDN Up and Running - Building a CDN from Scratch to Learn about CDN, Nginx, Lua, Prometheus, Grafana, Load balancing, and Containers.
 - [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
@@ -2428,7 +2428,7 @@
 - [neomake/neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular configuration of Vim and Neovim
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
@@ -2581,12 +2581,14 @@
 
 ## others 
 
+- [snmaynard/redis-audit](https://github.com/snmaynard/redis-audit) - 
+- [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find and replace in the terminal
 - [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
 - [robinovitch61/kl](https://github.com/robinovitch61/kl) - An interactive Kubernetes log viewer for your terminal.
 - [leg100/pug](https://github.com/leg100/pug) - Drive terraform at terminal velocity.
 - [jacobdeichert/mask](https://github.com/jacobdeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
 - [grafana-toolbox/grafana-wtf](https://github.com/grafana-toolbox/grafana-wtf) - Grep through all Grafana entities in the spirit of git-wtf.
-- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Visualize the time packets spend in the kernel, analyze requests/responses in command line.
+- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is a networking analysis tool based on eBPF. It can visualize the time packets spend in the kernel, capture requests/responses in command line, calculates various aggregated metrics, making tro
 - [grafana/grizzly](https://github.com/grafana/grizzly) - A utility for managing Jsonnet dashboards against the Grafana API
 - [grafana/k8s-monitoring-helm](https://github.com/grafana/k8s-monitoring-helm) - 
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) - A proxy that enforces a given label in a given PromQL query.
@@ -3554,7 +3556,7 @@
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Open Source ElasticSearch Alternative. Parseable helps you search and get insights from your logs in the most simple way possible.
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is a disk less, cloud native database for logs, observability, security, and compliance. Parseable is built with focus on simplicity & resource efficiency.
 - [fcsonline/drill](https://github.com/fcsonline/drill) - Drill is an HTTP load testing application written in Rust
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
@@ -3797,7 +3799,7 @@
 
 ## spacevim 
 
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular configuration of Vim and Neovim
 
 ## spring-boot 
 
@@ -4075,7 +4077,7 @@
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular configuration of Vim and Neovim
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
