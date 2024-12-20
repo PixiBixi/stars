@@ -62,7 +62,7 @@
 
 ## C 
 
-- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is a networking analysis tool based on eBPF. It can visualize the time packets spend in the kernel, capture requests/responses in command line, calculates various aggregated metrics, making tro
+- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is a networking analysis tool based on eBPF. It can visualize the time packets spend in the kernel, capture requests/responses in command line, calculates various aggregated metrics, makes trou
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 - [aperezdc/ngx-fancyindex](https://github.com/aperezdc/ngx-fancyindex) - Fancy indexes module for the Nginx web server
@@ -435,7 +435,7 @@
 - [sl1pm4t/k2tf](https://github.com/sl1pm4t/k2tf) - Kubernetes YAML to Terraform HCL converter
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
 - [fritchie/nvme_exporter](https://github.com/fritchie/nvme_exporter) - Prometheus exporter for nvme smart-log metrics
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [rapidloop/pgmetrics](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
@@ -629,6 +629,7 @@
 - [secuvera/SpotMyBackup](https://github.com/secuvera/SpotMyBackup) - Backup and Restore your Spotify Playlists and "My Music"
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [bcosca/fatfree](https://github.com/bcosca/fatfree) - A powerful yet easy-to-use PHP micro-framework designed to help you build dynamic and robust Web applications - fast!
+- [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [n457/Uncolored](https://github.com/n457/Uncolored) - (Un)colored — Next generation desktop rich content editor that saves documents with themes. HTML & Markdown compatible. For Windows, OS X & Linux. — http://n457.github.io/Uncolored/
 - [ronilaukkarinen/rolleshark](https://github.com/ronilaukkarinen/rolleshark) - A very clear and functional Subsonic / Airsonic / Madsonic theme based on Sonic and inspired by Grooveshark UI.
 
@@ -751,7 +752,6 @@
 - [streamaserver/streama](https://github.com/streamaserver/streama) - Self hosted streaming media server. https://docs.streama-project.com/
 - [mafintosh/playback](https://github.com/mafintosh/playback) - Video player built using electron and node.js
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - :closed_book: A minimal Markdown editor desktop app
-- [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [ppoffice/Hozz](https://github.com/ppoffice/Hozz) - [Development indefinitely suspended] A better way to manage your hosts.
 - [Kilian/fromscratch](https://github.com/Kilian/fromscratch) - Autosaving Scratchpad. A simple but smart note-taking app
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
@@ -1105,6 +1105,7 @@
 
 ## Python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [grafana-toolbox/grafana-wtf](https://github.com/grafana-toolbox/grafana-wtf) - Grep through all Grafana entities in the spirit of git-wtf.
 - [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
