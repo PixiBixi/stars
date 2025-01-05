@@ -18,6 +18,7 @@
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [FreeMarker](#freemarker)
+- [GLSL](#glsl)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HCL](#hcl)
@@ -47,6 +48,7 @@
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Starlark](#starlark)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [VCL](#vcl)
@@ -62,7 +64,7 @@
 
 ## C 
 
-- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is a networking analysis tool based on eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.
+- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 - [aperezdc/ngx-fancyindex](https://github.com/aperezdc/ngx-fancyindex) - Fancy indexes module for the Nginx web server
@@ -225,6 +227,10 @@
 ## FreeMarker 
 
 - [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
+
+## GLSL 
+
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 
 ## Go 
 
@@ -859,7 +865,6 @@
 - [scipag/vulscan](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE
 - [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 - [vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.
 - [Argon-/mpv-stats](https://github.com/Argon-/mpv-stats) - Display file statistics in mpv.
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
@@ -1577,7 +1582,7 @@
 - [mcrapet/plowshare](https://github.com/mcrapet/plowshare) - Command-line tool and engine for managing sharing websites
 - [vrillusions/bash-scripts](https://github.com/vrillusions/bash-scripts) - Random bash scripts I use.
 - [mpv-player/mpv-build](https://github.com/mpv-player/mpv-build) - 🔨 Helper scripts to compile mpv on Linux
-- [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
+- [testssl/testssl.sh](https://github.com/testssl/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
@@ -1604,6 +1609,10 @@
 ## Starlark 
 
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
+
+## Svelte 
+
+- [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 
 ## Swift 
 
