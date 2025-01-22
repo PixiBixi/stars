@@ -141,6 +141,7 @@
 
 ## C# # 
 
+- [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 - [emberstack/kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector) - Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.
 - [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
 - [ohhsodead/FileMasta](https://github.com/ohhsodead/FileMasta) - A search application to explore, discover and share online files
@@ -240,6 +241,8 @@
 
 ## Go 
 
+- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
+- [admiraltyio/admiralty](https://github.com/admiraltyio/admiralty) - A system of Kubernetes controllers that intelligently schedules workloads across clusters.
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [yashbhutwala/kubectl-df-pv](https://github.com/yashbhutwala/kubectl-df-pv) - kubectl plugin - giving admins df (disk free) like utility for persistent volumes
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
@@ -539,6 +542,7 @@
 - [amimof/node-cert-exporter](https://github.com/amimof/node-cert-exporter) - An SSL certificate Prometheus exporter
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [mattn/docx2md](https://github.com/mattn/docx2md) - Convert Microsoft Word Document to Markdown
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -705,7 +709,6 @@
 - [psi-4ward/psitransfer](https://github.com/psi-4ward/psitransfer) - Simple open source self-hosted file sharing solution.
 - [vasilevich/nginxbeautifier](https://github.com/vasilevich/nginxbeautifier) - Format and beautify nginx config files
 - [plotly/falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac 🦅
-- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [UnicornTranscoder/UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder) - Remote transcoder for Plex
 - [rclone/rclone-webui-react](https://github.com/rclone/rclone-webui-react) - A full fledged UI for the rclone cloud sync tool
@@ -1130,6 +1133,8 @@
 
 ## Python 
 
+- [sauljabin/kaskade](https://github.com/sauljabin/kaskade) - kaskade is a text user interface for kafka, which allows you to interact and consume topics from your terminal in style!
+- [tykling/dns_exporter](https://github.com/tykling/dns_exporter) - A multi-target Prometheus exporter with an exclusive focus on DNS monitoring.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [grafana-toolbox/grafana-wtf](https://github.com/grafana-toolbox/grafana-wtf) - Grep through all Grafana entities in the spirit of git-wtf.
 - [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
@@ -1158,7 +1163,7 @@
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI
 - [salesforce/policy_sentry](https://github.com/salesforce/policy_sentry) - IAM Least Privilege Policy Generator
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
+- [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [margau/pkg-exporter](https://github.com/margau/pkg-exporter) - 
 - [prometheus-community/node-exporter-textfile-collector-scripts](https://github.com/prometheus-community/node-exporter-textfile-collector-scripts) - Scripts for node-exporter's textfile collector
 - [dvershinin/lastversion](https://github.com/dvershinin/lastversion) - Find the latest release version of an arbitrary project
@@ -1367,6 +1372,8 @@
 
 ## Rust 
 
+- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find and replace in the terminal
 - [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
