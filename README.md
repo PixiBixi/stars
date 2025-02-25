@@ -116,7 +116,7 @@
 - [google/ngx_brotli](https://github.com/google/ngx_brotli) - NGINX module for Brotli compression
 - [openresty/headers-more-nginx-module](https://github.com/openresty/headers-more-nginx-module) - Set, add, and clear arbitrary output headers in NGINX http servers
 - [vincentbernat/jchroot](https://github.com/vincentbernat/jchroot) - a chroot with more isolation
-- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [FRiCKLE/ngx_cache_purge](https://github.com/FRiCKLE/ngx_cache_purge) - nginx module which adds ability to purge content from FastCGI, proxy, SCGI and uWSGI caches.
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
@@ -236,6 +236,7 @@
 
 ## Go 
 
+- [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes.
@@ -1433,7 +1434,7 @@
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [systemd-cron/systemd-cron-next](https://github.com/systemd-cron/systemd-cron-next) - compatibility layer for crontab-to-systemd timers framework
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -1572,7 +1573,7 @@
 - [DanielFGray/yaxg](https://github.com/DanielFGray/yaxg) - capture and record your screen with callbacks
 - [govolution/avet](https://github.com/govolution/avet) - AntiVirus Evasion Tool
 - [graysky2/profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
-- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
 - [sukria/Backup-Manager](https://github.com/sukria/Backup-Manager) - Versatile yet easy to use command line backup tool for GNU/Linux. Suitable for desktop and servers.
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
