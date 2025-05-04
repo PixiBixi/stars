@@ -251,7 +251,7 @@
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [rancher/k3k](https://github.com/rancher/k3k) - Kubernetes in Kubernetes
 - [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (incubating project under CNCF)
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [paralus/paralus](https://github.com/paralus/paralus) - All-in-one Kubernetes access manager. User-level credentials, RBAC, SSO, audit logs.
 - [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway
@@ -491,7 +491,7 @@
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
-- [minamijoyo/tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform configurations
+- [minamijoyo/tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations
 - [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector) - This is a place for various problem detectors running on the Kubernetes nodes.
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [kubepug/kubepug](https://github.com/kubepug/kubepug) - Kubernetes PreUpGrade (Checker)
@@ -1492,6 +1492,8 @@
 
 ## Shell 
 
+- [rancherlabs/support-tools](https://github.com/rancherlabs/support-tools) - 
+- [fdcastel/Proxmox-Automation](https://github.com/fdcastel/Proxmox-Automation) - Collection of scripts to manage Proxmox environments.
 - [MnrGreg/kubectl-node-restart](https://github.com/MnrGreg/kubectl-node-restart) - Krew plugin to restart Kubernetes Nodes sequentially and gracefully
 - [theory/pgenv](https://github.com/theory/pgenv) - PostgreSQL binary manager
 - [predatorray/kubectl-tmux-exec](https://github.com/predatorray/kubectl-tmux-exec) - A kubectl plugin to control multiple pods simultaneously using Tmux
