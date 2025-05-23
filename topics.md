@@ -246,7 +246,7 @@
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - ✨ End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [julian-klode/dns66](https://github.com/julian-klode/dns66) - DNS-based Host Blocker (and lightweight ad blocker) for Android
@@ -920,7 +920,7 @@
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 
 ## docker 
 
@@ -977,7 +977,7 @@
 - [openebs/openebs](https://github.com/openebs/openebs) - A popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [oznu/docker-cloudflare-ddns](https://github.com/oznu/docker-cloudflare-ddns) - A small amd64/ARM/ARM64 Docker image that allows you to use CloudFlare as a DDNS / DynDNS Provider.
 - [vx3r/wg-gen-web](https://github.com/vx3r/wg-gen-web) - Simple Web based configuration generator for WireGuard
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -1137,7 +1137,7 @@
 ## flutter 
 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - ✨ End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -1349,7 +1349,7 @@
 - [derailed/popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - ✨ End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [bank-vaults/bank-vaults](https://github.com/bank-vaults/bank-vaults) - A Vault swiss-army knife: A CLI tool to init, unseal and configure Vault (auth methods, secret engines).
@@ -1400,7 +1400,7 @@
 - [teler-sh/teler](https://github.com/teler-sh/teler) - Real-time HTTP Intrusion Detection
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [Luzifer/nginx-sso](https://github.com/Luzifer/nginx-sso) - SSO authentication provider for the auth_request nginx module
@@ -1745,7 +1745,7 @@
 
 ## ios 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - ✨ End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -2081,7 +2081,7 @@
 - [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
 - [openebs/openebs](https://github.com/openebs/openebs) - A popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [eon01/kubernetes-workshop](https://github.com/eon01/kubernetes-workshop) - ⚙️ A Gentle introduction to Kubernetes with more than just the basics. 🌟 Give it a star if you like it.
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
@@ -2680,6 +2680,7 @@
 
 ## others 
 
+- [crhuber/kelp](https://github.com/crhuber/kelp) - A simple alternative to homebrew for installing binary packages on MacOS written in Go.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [rancherlabs/support-tools](https://github.com/rancherlabs/support-tools) - 
 - [fdcastel/Proxmox-Automation](https://github.com/fdcastel/Proxmox-Automation) - Collection of scripts to manage Proxmox environments.
@@ -3413,7 +3414,7 @@
 
 ## privacy 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - ✨ End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
@@ -3510,7 +3511,7 @@
 - [iocage/iocage](https://github.com/iocage/iocage) - A FreeBSD jail manager written in Python 3
 - [dgilland/pydash](https://github.com/dgilland/pydash) - The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library.
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
@@ -3613,6 +3614,7 @@
 ## react-native 
 
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
@@ -3697,7 +3699,7 @@
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
-- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
+- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [parseablehq/parseable](https://github.com/parseablehq/parseable) - ParseableDB is a disk less, cloud native database for observability and security. Parseable is the Observability platform built with ParseableDB
 - [fcsonline/drill](https://github.com/fcsonline/drill) - Drill is an HTTP load testing application written in Rust
@@ -3769,7 +3771,7 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 - [scipag/vulscan](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE
@@ -3875,7 +3877,7 @@
 ## server 
 
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
-- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
+- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [pldubouilh/gossa](https://github.com/pldubouilh/gossa) - 🎶 a fast and simple multimedia fileserver
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
@@ -4211,7 +4213,7 @@
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - 🦀 ⚡ kubectl port forward manager, with support for UDP and proxy connections through k8s clusters
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, dev-first alternative to Jira, Linear
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - ✨ End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
