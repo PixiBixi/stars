@@ -46,6 +46,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Starlark](#starlark)
@@ -239,6 +240,9 @@
 
 ## Go 
 
+- [takumakume/sbomreport-to-dependencytrack](https://github.com/takumakume/sbomreport-to-dependencytrack) - 
+- [howardjohn/gateway-api-bench](https://github.com/howardjohn/gateway-api-bench) - Gateway API Benchmarks provides a common set of tests to evaluate a Gateway API implementation.
+- [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [bakito/sealed-secrets-web](https://github.com/bakito/sealed-secrets-web) - A web interface for Sealed Secrets by Bitnami.
 - [gardener/gardener](https://github.com/gardener/gardener) - Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
 - [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy) - BuildBuddy is an open source Bazel build event viewer, result store, remote cache, and remote build execution platform.
@@ -593,7 +597,7 @@
 - [fabiofalci/sconsify](https://github.com/fabiofalci/sconsify) - A spotify console application
 - [cortex/gopass](https://github.com/cortex/gopass) - Gopass: A simple password-store GUI
 - [cardigann/cardigann](https://github.com/cardigann/cardigann) - A proxy server for adding new indexers to Sonarr, SickRage and other media managers
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [noqcks/gucci](https://github.com/noqcks/gucci) - Templating on the command line with sprig.
 - [sourcegraph/checkup](https://github.com/sourcegraph/checkup) - Distributed, lock-free, self-hosted health checks and status pages
@@ -1513,6 +1517,10 @@
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 
+## Scala 
+
+- [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
+
 ## Shell 
 
 - [ad1822/hyprdots](https://github.com/ad1822/hyprdots) - AWESOME Hyprland Dotfiles
@@ -1691,6 +1699,7 @@
 
 ## Smarty 
 
+- [DependencyTrack/helm-charts](https://github.com/DependencyTrack/helm-charts) - Helm Charts for Dependency-Track
 - [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
 - [grafana/k8s-monitoring-helm](https://github.com/grafana/k8s-monitoring-helm) - 
 
