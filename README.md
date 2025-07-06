@@ -246,6 +246,7 @@
 
 ## Go 
 
+- [argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin) - An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets
 - [argoproj-labs/argocd-rbac-operator](https://github.com/argoproj-labs/argocd-rbac-operator) - Kubernetes Operator for Argo CD RBAC Management.
 - [BeryJu/korb](https://github.com/BeryJu/korb) - Move Kubernetes PVCs between Storage Classes and Namespaces
 - [klaudworks/kubeconfig-operator](https://github.com/klaudworks/kubeconfig-operator) - Operator to generate (restricted) kubeconfigs for Kubernetes.
