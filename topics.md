@@ -3331,7 +3331,6 @@
 - [jamiewilson/predawn](https://github.com/jamiewilson/predawn) - Predawn is a dark interface and syntax theme for Sublime Text and Atom.
 - [sindresorhus/sublime-autoprefixer](https://github.com/sindresorhus/sublime-autoprefixer) - Sublime plugin to prefix your CSS
 - [mrmartineau/Placeholders](https://github.com/mrmartineau/Placeholders) - Placeholder HTML & content (lorem ipsum) package for Sublime Text 2
-- [brandonwamboldt/sublime-nginx](https://github.com/brandonwamboldt/sublime-nginx) - Improved syntax support for Nginx configuration files
 - [weslly/ColorPicker](https://github.com/weslly/ColorPicker) - Color picker for Sublime Text
 - [wbond/sublime_alignment](https://github.com/wbond/sublime_alignment) - Easy alignment of multiple selections and multi-line selections
 - [spadgos/sublime-jsdocs](https://github.com/spadgos/sublime-jsdocs) - Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++
@@ -3419,7 +3418,6 @@
 - [ldidry/lutim](https://github.com/ldidry/lutim) - Let's Upload That Image ! Read-only mirror of https://framagit.org/fiat-tux/hat-softwares/lutim
 - [ldidry/lstu](https://github.com/ldidry/lstu) - Lightweight URL shortener. Read-only mirror of https://framagit.org/fiat-tux/hat-softwares/lstu
 - [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
-- [brandonwamboldt/utilphp](https://github.com/brandonwamboldt/utilphp) - util.php is a collection of useful functions and snippets that you need or could use every day, designed to avoid conflicts with existing projects
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [JohnTroony/php-webshells](https://github.com/JohnTroony/php-webshells) - Common PHP webshells you might need for your Penetration Testing assignments or CTF challenges. Do not host the file(s) on your server!
 - [flyspray/flyspray](https://github.com/flyspray/flyspray) - Flyspray Bug Tracking System
