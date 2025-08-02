@@ -1086,7 +1086,6 @@
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [sixty4k/st2-zonefile](https://github.com/sixty4k/st2-zonefile) - Sublime Text - Bind Zone File syntax highlighting
 - [mrmartineau/Placeholders](https://github.com/mrmartineau/Placeholders) - Placeholder HTML & content (lorem ipsum) package for Sublime Text 2
-- [brandonwamboldt/sublime-nginx](https://github.com/brandonwamboldt/sublime-nginx) - Improved syntax support for Nginx configuration files
 - [Swizards/QuickBox](https://github.com/Swizards/QuickBox) - Quick Box is a personal seedbox installer script that is multi-user friendly. Quickly setup a seedbox using ruTorrent on a fresh custom seedbox dashboard and custom QuickBox theme as well as build a l
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [chipotle/BBCode](https://github.com/chipotle/BBCode) - BBCode Bundle for Sublime Text
@@ -1188,7 +1187,6 @@
 - [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you
 - [matthiasmullie/minify](https://github.com/matthiasmullie/minify) - CSS & JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming pattern
 - [Sonerezh/sonerezh](https://github.com/Sonerezh/sonerezh) - A self-hosted, web-based application to stream your music, everywhere.
-- [brandonwamboldt/utilphp](https://github.com/brandonwamboldt/utilphp) - util.php is a collection of useful functions and snippets that you need or could use every day, designed to avoid conflicts with existing projects
 - [JohnTroony/php-webshells](https://github.com/JohnTroony/php-webshells) - Common PHP webshells you might need for your Penetration Testing assignments or CTF challenges. Do not host the file(s) on your server!
 - [tennc/webshell](https://github.com/tennc/webshell) - This is a webshell open source project
 - [echothrust/echofish](https://github.com/echothrust/echofish) - Central syslog manager with whitelisting and ability to generate events from syslog entries
