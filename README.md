@@ -872,6 +872,7 @@
 - [koel/app](https://github.com/koel/app) - 🖥 The desktop application for Koel.
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
 - [cubiq/iscroll](https://github.com/cubiq/iscroll) - Smooth scrolling for the web
+- [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 - [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
 - [brutaldesign/swipebox](https://github.com/brutaldesign/swipebox) - A touchable jQuery lightbox
@@ -1702,7 +1703,6 @@
 - [jpetazzo/nsenter](https://github.com/jpetazzo/nsenter) - 
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup) - A beginner's guide to setting up a development environment on macOS
-- [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 - [dominictarr/JSON.sh](https://github.com/dominictarr/JSON.sh) - a pipeable JSON parser written in Bash
 - [scopatz/nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
 - [mcrapet/plowshare-module-mega](https://github.com/mcrapet/plowshare-module-mega) - Plowshare module for mega.co.nz
