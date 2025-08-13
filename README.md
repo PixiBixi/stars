@@ -1079,7 +1079,7 @@
 - [berzerk0/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
 - [FuriKuri/docker-best-practices](https://github.com/FuriKuri/docker-best-practices) - Collection of some docker practices
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
-- [oerdnj/deb.sury.org](https://github.com/oerdnj/deb.sury.org) - Public bugreports for anything ppa:ondrej/*
+- [oerdnj/deb.sury.org](https://github.com/oerdnj/deb.sury.org) - Migrated to https://codeberg.org/oerdnj/deb.sury.org
 - [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders) - ShareX custom uploaders
 - [Kapeli/feeds](https://github.com/Kapeli/feeds) - Collection of Dash docset feeds
 - [macfuse/macfuse](https://github.com/macfuse/macfuse) - macFUSE umbrella repository
@@ -1782,7 +1782,7 @@
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [kobsio/kobs](https://github.com/kobsio/kobs) - Kubernetes Observability Platform
-- [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
+- [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - an open-source, single binary kubernetes dashboard. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio ). To manage your multiple 
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [replicatedhq/ttl.sh](https://github.com/replicatedhq/ttl.sh) - An anonymous & ephemeral Docker image registry
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
