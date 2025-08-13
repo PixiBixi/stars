@@ -232,10 +232,10 @@
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [rohitg00/awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers) - A curated list of awesome MCP servers focused on DevOps tools and capabilities.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
+- [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - an open-source, single binary kubernetes dashboard. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio ). To manage your multiple 
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance.
 - [RedPlanetHQ/tegon](https://github.com/RedPlanetHQ/tegon) - Tegon is an open-source, dev-first alternative to Jira, Linear
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a diskless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
@@ -586,6 +586,7 @@
 
 ## chatgpt 
 
+- [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - an open-source, single binary kubernetes dashboard. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio ). To manage your multiple 
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 
 ## chrome 
@@ -881,7 +882,7 @@
 ## developer-tools 
 
 - [dotnet/dev-proxy](https://github.com/dotnet/dev-proxy) - Simulate API failures, throttling, and chaos — all from your command line.
-- [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
+- [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - an open-source, single binary kubernetes dashboard. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio ). To manage your multiple 
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - Monokle is a set of OSS tools designed to help create and maintain high-quality Kubernetes configurations throughout the application lifecycle
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -918,7 +919,7 @@
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [rohitg00/awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers) - A curated list of awesome MCP servers focused on DevOps tools and capabilities.
 - [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee:
-- [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
+- [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - an open-source, single binary kubernetes dashboard. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio ). To manage your multiple 
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [kubeshop/botkube](https://github.com/kubeshop/botkube) - An app that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices
@@ -1425,7 +1426,7 @@
 - [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy) - BuildBuddy is an open source Bazel build event viewer, result store, remote cache, and remote build execution platform.
 - [AlexNabokikh/tfsort](https://github.com/AlexNabokikh/tfsort) - A CLI utility to sort Terraform variables and outputs
 - [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee:
-- [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
+- [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - an open-source, single binary kubernetes dashboard. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio ). To manage your multiple 
 - [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
 - [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
 - [lwolf/kube-cleanup-operator](https://github.com/lwolf/kube-cleanup-operator) - Kubernetes Operator to automatically delete completed Jobs and their Pods
@@ -1602,7 +1603,6 @@
 - [Ladicle/kubectl-rolesum](https://github.com/Ladicle/kubectl-rolesum) - Summarize Kubernetes RBAC roles for the specified subjects.
 - [cozystack/talm](https://github.com/cozystack/talm) - Manage Talos Linux the GitOps Way!
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager
-- [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
 - [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
@@ -2056,7 +2056,7 @@
 - [terrakube-io/terrakube](https://github.com/terrakube-io/terrakube) - Open source IaC Automation and Collaboration Software.
 - [cozystack/talm](https://github.com/cozystack/talm) - Manage Talos Linux the GitOps Way!
 - [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (incubating project under CNCF)
-- [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
+- [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - an open-source, single binary kubernetes dashboard. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio ). To manage your multiple 
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway
 - [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
@@ -3249,7 +3249,7 @@
 - [telephone/LookingGlass](https://github.com/telephone/LookingGlass) - A user-friendly PHP Looking Glass
 - [otm/networkmap.js](https://github.com/otm/networkmap.js) - A network weathermap written in Javascript and SVG with editing capabilities.
 - [Hydrog3n/linkseedboxmanager](https://github.com/Hydrog3n/linkseedboxmanager) - Plugin pour rutorrent afin d'avoir un lien dans la toolbarre rutorrent vers le seedbox-manager (http://github.com/magicalex/seedbox-manager)
-- [oerdnj/deb.sury.org](https://github.com/oerdnj/deb.sury.org) - Public bugreports for anything ppa:ondrej/*
+- [oerdnj/deb.sury.org](https://github.com/oerdnj/deb.sury.org) - Migrated to https://codeberg.org/oerdnj/deb.sury.org
 - [tucnak/telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go.
 - [kylemanna/systemd-utils](https://github.com/kylemanna/systemd-utils) - Random systemd utilities
 - [snorpey/triangulation](https://github.com/snorpey/triangulation) - image triangulation experiment
@@ -3635,7 +3635,7 @@
 
 ## productivity 
 
-- [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
+- [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - an open-source, single binary kubernetes dashboard. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio ). To manage your multiple 
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
@@ -3805,7 +3805,6 @@
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [KSJaay/Lunalytics](https://github.com/KSJaay/Lunalytics) - 🚀 Open source monitoring tool built with Node.js
 - [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy) - BuildBuddy is an open source Bazel build event viewer, result store, remote cache, and remote build execution platform.
-- [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - Monokle is a set of OSS tools designed to help create and maintain high-quality Kubernetes configurations throughout the application lifecycle
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
