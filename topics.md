@@ -1270,7 +1270,6 @@
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -3169,7 +3168,7 @@
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [b374k/b374k](https://github.com/b374k/b374k) - PHP Webshell with handy features
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
-- [iheanyi/bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Simple python script to download Bandcamp albums
+- [Evolution0/bandcamp-dl](https://github.com/Evolution0/bandcamp-dl) - Simple python script to download Bandcamp albums
 - [lessy-community/lessy](https://github.com/lessy-community/lessy) - A respectful and ethical time manager.
 - [imagemin/imagemin-cli](https://github.com/imagemin/imagemin-cli) - Minify images seamlessly
 - [justinmk/vim-gtfo](https://github.com/justinmk/vim-gtfo) - Go to Terminal or File manager :point_right:
