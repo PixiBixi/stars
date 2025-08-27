@@ -250,7 +250,7 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [traceo-dev/traceo](https://github.com/traceo-dev/traceo) - Traceo is a self-hosted bug tracking and performance monitoring system.
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - ParseableDB is a disk less, cloud native database for observability and security. Parseable is the Observability platform built with ParseableDB
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is an observability platform built for the modern - cloud native, AI era.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
@@ -943,7 +943,7 @@
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - 🦀 ⚡ kubectl port-forward manager with traffic inspection, udp support, proxy connections through k8s clusters and state via local files or git repos
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
-- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [evryn/kermoo](https://github.com/evryn/kermoo) - 🪱 Kermoo offers resilience testing with Process Delays, Back-end Failures, CPU Simulations, and Memory Leaks. Boost your system reliability effortlessly.
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI
@@ -1042,7 +1042,7 @@
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - ParseableDB is a disk less, cloud native database for observability and security. Parseable is the Observability platform built with ParseableDB
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is an observability platform built for the modern - cloud native, AI era.
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
@@ -2175,7 +2175,7 @@
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [kube-vip/kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
-- [techno-tim/k3s-ansible](https://github.com/techno-tim/k3s-ansible) - The easiest way to bootstrap a self-hosted High Availability Kubernetes cluster.  A fully automated HA k3s etcd install with kube-vip, MetalLB, and more.  Build. Destroy. Repeat.
+- [timothystewart6/k3s-ansible](https://github.com/timothystewart6/k3s-ansible) - The easiest way to bootstrap a self-hosted High Availability Kubernetes cluster.  A fully automated HA k3s etcd install with kube-vip, MetalLB, and more.  Build. Destroy. Repeat.
 - [cert-manager/approver-policy](https://github.com/cert-manager/approver-policy) - approver-policy is a cert-manager approver that allows users to define policies that restrict what certificates can be requested.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl
@@ -2220,7 +2220,7 @@
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [sl1pm4t/k2tf](https://github.com/sl1pm4t/k2tf) - Kubernetes YAML to Terraform HCL converter
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - ParseableDB is a disk less, cloud native database for observability and security. Parseable is the Observability platform built with ParseableDB
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is an observability platform built for the modern - cloud native, AI era.
 - [johanhaleby/kubetail](https://github.com/johanhaleby/kubetail) - Bash script to tail Kubernetes logs from multiple pods at the same time
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
 - [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
@@ -2327,7 +2327,7 @@
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - ParseableDB is a disk less, cloud native database for observability and security. Parseable is the Observability platform built with ParseableDB
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is an observability platform built for the modern - cloud native, AI era.
 - [roddhjav/apparmor.d](https://github.com/roddhjav/apparmor.d) - Full set of AppArmor policies
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
@@ -2392,7 +2392,7 @@
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
-- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
+- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A book-in-progress about the Linux kernel and its insides.
 - [shevabam/ezservermonitor-web](https://github.com/shevabam/ezservermonitor-web) - eZ Server Monitor`Web - A simple and lightweight dashboard for Linux
 - [ifsnop/mysqldump-php](https://github.com/ifsnop/mysqldump-php) - PHP version of mysqldump cli that comes with MySQL
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
@@ -2599,7 +2599,7 @@
 - [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus!
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager
 - [getanteon/alaz](https://github.com/getanteon/alaz) - Alaz: Advanced eBPF Agent for Kubernetes Observability – Effortlessly monitor K8s service interactions and performance metrics in your K8s environment. Gain in-depth insights with service maps, metric
@@ -2877,6 +2877,8 @@
 
 ## others 
 
+- [rosell-dk/webp-convert](https://github.com/rosell-dk/webp-convert) - Convert jpeg/png to webp with PHP (if at all possible)
+- [rosell-dk/webp-express](https://github.com/rosell-dk/webp-express) - Wordpress plugin for serving autogenerated WebP images instead of jpeg/png to browsers that supports WebP
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M32, M3) Macs
 - [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) - Terraform Module for deploying an AKS cluster
@@ -3945,7 +3947,7 @@
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - ParseableDB is a disk less, cloud native database for observability and security. Parseable is the Observability platform built with ParseableDB
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is an observability platform built for the modern - cloud native, AI era.
 - [fcsonline/drill](https://github.com/fcsonline/drill) - Drill is an HTTP load testing application written in Rust
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
