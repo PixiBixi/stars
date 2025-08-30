@@ -44,6 +44,7 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -1461,6 +1462,10 @@
 - [titoBouzout/SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Side Bar Tools and Enhancements for Sublime Text. Files and folders.
 - [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
 
+## Roff 
+
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
+
 ## Ruby 
 
 - [snmaynard/redis-audit](https://github.com/snmaynard/redis-audit) - 
@@ -1587,6 +1592,7 @@
 
 ## Shell 
 
+- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 - [grafana/database-migrator](https://github.com/grafana/database-migrator) - Code to export grafana.db (sqlite) to MySQL-compatible SQL file, to assist in migration of Grafana data to MySQL-compatible DB.
 - [rancherlabs/support-tools](https://github.com/rancherlabs/support-tools) - 
 - [fdcastel/Proxmox-Automation](https://github.com/fdcastel/Proxmox-Automation) - Collection of scripts to manage Proxmox environments.
