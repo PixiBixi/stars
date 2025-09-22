@@ -71,7 +71,7 @@
 ## C 
 
 - [documentdb/documentdb](https://github.com/documentdb/documentdb) - MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity.
-- [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq : CPU monitoring and tuning software designed for 64-bit processors.
+- [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq : CPU monitoring and tuning software designed for the 64-bit processors.
 - [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
@@ -583,7 +583,7 @@
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
-- [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
+- [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
@@ -1015,7 +1015,7 @@
 
 ## MoonBit 
 
-- [nikitavoloboev/moonbit](https://github.com/nikitavoloboev/moonbit) - MoonBit tools, libraries and other code
+- [nikitavoloboev/mbt](https://github.com/nikitavoloboev/mbt) - MoonBit tools, libraries and other code
 
 ## Mustache 
 
@@ -1300,7 +1300,7 @@
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [hellofresh/eks-rolling-update](https://github.com/hellofresh/eks-rolling-update) - EKS Rolling Update is a utility for updating the launch configuration of worker nodes in an EKS cluster.
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
-- [mkaz/termgraph](https://github.com/mkaz/termgraph) - A Python command-line tool which draws basic graphs in the terminal
+- [mkaz/termgraph](https://github.com/mkaz/termgraph) - A Python command-line and library that draws basic graphs in the terminal
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 - [yonahd/orphaned-configmaps](https://github.com/yonahd/orphaned-configmaps) - A script for finding orphaned configmaps
@@ -1554,7 +1554,7 @@
 - [jubako/arx](https://github.com/jubako/arx) - Store files and directory in an archive. Like tar, but faster and with direct random access.
 - [clowdhaus/eksup](https://github.com/clowdhaus/eksup) - EKS cluster upgrade guidance
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager with traffic inspection, udp support, proxy connections through k8s clusters and state via local files or git repos
+- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager with TLS port forwards, traffic inspection, udp support, proxy connections through k8s clusters and state via local files or git repos
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [aws/aws-secretsmanager-agent](https://github.com/aws/aws-secretsmanager-agent) - The AWS Secrets Manager Agent is a local HTTP service that you can install and use in your compute environments to read secrets from Secrets Manager and cache them in memory.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
@@ -1856,7 +1856,7 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
+- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager
 - [RecipeUI/RecipeUI](https://github.com/RecipeUI/RecipeUI) - Discover, test, and share APIs in seconds
