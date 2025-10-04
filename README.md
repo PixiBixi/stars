@@ -804,6 +804,7 @@
 
 ## JavaScript 
 
+- [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 - [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M32, M3) Macs
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [superstreamlabs/kafka-analyzer](https://github.com/superstreamlabs/kafka-analyzer) - Interactive CLI for analyzing Kafka health and configuration according to best practices and industry standards.
