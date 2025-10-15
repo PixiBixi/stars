@@ -257,6 +257,10 @@
 
 ## Go 
 
+- [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
+- [applejag/kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
+- [NimbleArchitect/kubectl-ice](https://github.com/NimbleArchitect/kubectl-ice) - Kubectl-ice is an open-source tool for Kubernetes users to monitor and optimize container resource usage. Features include usage breakdowns for pods and containers, making scaling and optimization eas
+- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [medik8s/self-node-remediation](https://github.com/medik8s/self-node-remediation) - Automatic repair for unhealthy Kubernetes nodes
 - [GoogleCloudPlatform/secrets-store-csi-driver-provider-gcp](https://github.com/GoogleCloudPlatform/secrets-store-csi-driver-provider-gcp) - Google Secret Manager provider for the Secret Store CSI Driver.
@@ -1096,7 +1100,7 @@
 - [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX  Cheatsheet
 - [skalavala/Multi-Room-Audio-Centralized-Audio-for-Home](https://github.com/skalavala/Multi-Room-Audio-Centralized-Audio-for-Home) - :musical_note: This Github Repository provides details on setting up a centralized audio system for your home using nothing but Raspberry Pi's and Old Speakers.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [nikitavoloboev/privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
+- [nikivdev/privacy-respecting](https://github.com/nikivdev/privacy-respecting) - Curated List of Privacy Respecting Services and Software
 - [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
 - [MartinSeeler/iterm2-material-design](https://github.com/MartinSeeler/iterm2-material-design) - A theme / color scheme for iTerm2 based on Google's Material Design Color Palette
 - [agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
@@ -1835,6 +1839,7 @@
 
 ## TypeScript 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [argoproj-labs/assistant-for-argocd](https://github.com/argoproj-labs/assistant-for-argocd) - 
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) - Search Engine Position Rank Tracking App
 - [cars10/elasticvue](https://github.com/cars10/elasticvue) - Elasticsearch gui - for desktop & your browser
@@ -1915,9 +1920,9 @@
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
-- [nikitavoloboev/myflow](https://github.com/nikitavoloboev/myflow) - Place to share & store what you use
-- [nikitavoloboev/flow](https://github.com/nikitavoloboev/flow) - Do things fast
-- [nikitavoloboev/ts](https://github.com/nikitavoloboev/ts) - TS tools, libraries and other code
+- [nikivdev/myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Do things fast
+- [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
 - [AlduinApp/alduin](https://github.com/AlduinApp/alduin) - Alduin is a free and open source RSS, Atom and JSON feed reader that allows you to keep track of your favorite websites.
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Web Awesome ("Shoelace 3") has been released! Get it here 👇👇👇
