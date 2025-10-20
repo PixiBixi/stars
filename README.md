@@ -257,6 +257,15 @@
 
 ## Go 
 
+- [kubernetes-sigs/cluster-proportional-autoscaler](https://github.com/kubernetes-sigs/cluster-proportional-autoscaler) - Kubernetes Cluster Proportional Autoscaler Container
+- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
+- [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
+- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
+- [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes
+- [gabeduke/kubectl-iexec](https://github.com/gabeduke/kubectl-iexec) - Kubectl plugin to interactively exec into a pod
+- [logbull/logbull](https://github.com/logbull/logbull) - Log Bull - simple log collection and view system. Self hosted, zero-config, support of languages (Python, Go, Java, PHP, etc.). Simple alternative to ELK and Loki
+- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+- [carverauto/serviceradar](https://github.com/carverauto/serviceradar) - powerful opensource network management and observability platform
 - [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
 - [applejag/kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
 - [NimbleArchitect/kubectl-ice](https://github.com/NimbleArchitect/kubectl-ice) - Kubectl-ice is an open-source tool for Kubernetes users to monitor and optimize container resource usage. Features include usage breakdowns for pods and containers, making scaling and optimization eas
@@ -702,6 +711,7 @@
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
 - [owenthereal/ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
@@ -811,6 +821,7 @@
 
 ## JavaScript 
 
+- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 - [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M32, M3) Macs
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
@@ -1449,7 +1460,7 @@
 - [revolunet/sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) - markdown preview and build plugin for sublime text 2/3
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [frostming/legit](https://github.com/frostming/legit) - Git for Humans, Inspired by GitHub for Mac™.
-- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
+- [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
 - [debops/debops-tools](https://github.com/debops/debops-tools) - Your Debian-based data center in a box
 - [peterjmit/sublime-phpspec-snippets](https://github.com/peterjmit/sublime-phpspec-snippets) - Autocompletion to speed up writing PhpSpec examples in Sublime Text
 - [al63/SublimeFiles](https://github.com/al63/SublimeFiles) - Sublime Text 2/3 plugin for keyboard driven file navigation
@@ -1506,6 +1517,7 @@
 
 ## Ruby 
 
+- [CanineHQ/canine](https://github.com/CanineHQ/canine) - Power of Kubernetes, Simplicity of Heroku
 - [Shopify/krane](https://github.com/Shopify/krane) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result
 - [snmaynard/redis-audit](https://github.com/snmaynard/redis-audit) - 
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
@@ -1537,6 +1549,7 @@
 
 ## Rust 
 
+- [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images
 - [s2-streamstore/cachey](https://github.com/s2-streamstore/cachey) - Read-through cache for object storage
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Real-time event streaming platform. Streaming CDC, stream processing, low-latency serving, and Iceberg management.
@@ -1921,7 +1934,6 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [nikivdev/myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Do things fast
 - [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
 - [AlduinApp/alduin](https://github.com/AlduinApp/alduin) - Alduin is a free and open source RSS, Atom and JSON feed reader that allows you to keep track of your favorite websites.
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
