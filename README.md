@@ -542,7 +542,7 @@
 - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
 - [jetstack/version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
 - [LeanerCloud/AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using Stac
-- [oliver006/redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for Valkey & Redis Metrics. Supports Valkey 7.x & 8.x and Redis 2.x, 3.x, 4.x, 5.x, 6.x, 7.x, and 8.x
+- [oliver006/redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for Valkey & Redis Metrics. Supports Valkey 9.x, 8.x, 7.x and various Redis versions
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - The only Kubernetes dashboard you need
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [cert-manager/trust-manager](https://github.com/cert-manager/trust-manager) - trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
