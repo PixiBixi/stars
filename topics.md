@@ -1059,6 +1059,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
@@ -1145,7 +1146,7 @@
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend
 - [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
-- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
@@ -1386,6 +1387,7 @@
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
 - [Valkyrie00/bold-brew](https://github.com/Valkyrie00/bold-brew) - Bold Brew (bbrew) - A Homebrew TUI Manager
@@ -1609,7 +1611,7 @@
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [Code-Hex/pget](https://github.com/Code-Hex/pget) - The fastest, resumable file download client
-- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
@@ -1946,7 +1948,7 @@
 
 ## image-processing 
 
-- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 
 ## information-gathering 
 
@@ -2885,7 +2887,6 @@
 
 ## nodejs 
 
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [KSJaay/Lunalytics](https://github.com/KSJaay/Lunalytics) - 🚀 Open source monitoring tool built with Node.js
@@ -3976,6 +3977,7 @@
 
 ## react 
 
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [KSJaay/Lunalytics](https://github.com/KSJaay/Lunalytics) - 🚀 Open source monitoring tool built with Node.js
 - [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy) - BuildBuddy is an open source Bazel build event viewer, result store, remote cache, and remote build execution platform.
@@ -4239,6 +4241,7 @@
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [KSJaay/Lunalytics](https://github.com/KSJaay/Lunalytics) - 🚀 Open source monitoring tool built with Node.js
@@ -4650,6 +4653,7 @@
 
 ## typescript 
 
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
 - [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy) - BuildBuddy is an open source Bazel build event viewer, result store, remote cache, and remote build execution platform.
