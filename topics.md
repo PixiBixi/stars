@@ -3558,7 +3558,7 @@
 - [whomwah/qlstephen](https://github.com/whomwah/qlstephen) - A QuickLook plugin that lets you view plain text files without a file extension
 - [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 - [godlygeek/tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
-- [rizzatti/dash.vim](https://github.com/rizzatti/dash.vim) - Search Dash.app from Vim
+- [joseotaviorf/dash.vim](https://github.com/joseotaviorf/dash.vim) - Search Dash.app from Vim
 - [farcaller/DashDoc](https://github.com/farcaller/DashDoc) - Dash integration for Sublime Text
 - [mandatoryprogrammer/NorthKoreaDNSLeak](https://github.com/mandatoryprogrammer/NorthKoreaDNSLeak) - Snapshot of North Korea's DNS data taken from zone transfers.
 - [citruspi/Spotify-Notifications](https://github.com/citruspi/Spotify-Notifications) - Bridging Spotify and macOS Notification Center
