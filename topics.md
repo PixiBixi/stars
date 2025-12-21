@@ -2206,6 +2206,7 @@
 - [youknowone/VisualJSON](https://github.com/youknowone/VisualJSON) - JSON pretty-viewer for OS X.
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [php-curl-class/php-curl-class](https://github.com/php-curl-class/php-curl-class) - PHP Curl Class makes it easy to send HTTP requests and integrate with web APIs
+- [testssl/testssl.sh](https://github.com/testssl/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 
 ## kali-linux 
 
@@ -3694,7 +3695,6 @@
 - [traviscross/mtr](https://github.com/traviscross/mtr) - Official repository for mtr, a network diagnostic tool
 - [YellowLabTools/YellowLabTools](https://github.com/YellowLabTools/YellowLabTools) - WebPerf and front-end quality testing tool
 - [soyuka/explorer](https://github.com/soyuka/explorer) - Explore and share. Highly-configurable directory listing made with nodejs.
-- [testssl/testssl.sh](https://github.com/testssl/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [carlcarl/powerline-zsh](https://github.com/carlcarl/powerline-zsh) - Powerline for Zsh (This is a fork from https://github.com/milkbikis/powerline-bash)
 - [mozilla/cipherscan](https://github.com/mozilla/cipherscan) - A very simple way to find out which SSL ciphersuites are supported by a target.
