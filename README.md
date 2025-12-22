@@ -252,6 +252,7 @@
 
 ## Go 
 
+- [controlplaneio-fluxcd/flux-operator](https://github.com/controlplaneio-fluxcd/flux-operator) - GitOps on Autopilot Mode
 - [haproxytech/haproxy-unified-gateway](https://github.com/haproxytech/haproxy-unified-gateway) - Haproxy controller to handle K8s Gateway API
 - [clbx/kubectl-browse-pvc](https://github.com/clbx/kubectl-browse-pvc) - Kubectl plugin for browsing PVCs on the command line
 - [topolvm/pvc-autoresizer](https://github.com/topolvm/pvc-autoresizer) - Auto-resize PersistentVolumeClaim objects based on Prometheus metrics
@@ -1666,6 +1667,7 @@
 
 ## Shell 
 
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [R0GGER/public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers) - A list of public iPerf3 servers...
 - [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - ProxMenux An Interactive Menu for Proxmox VE Management
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
