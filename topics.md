@@ -3132,6 +3132,7 @@
 
 ## others 
 
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [argoproj-labs/argocd-monorepo-controller](https://github.com/argoproj-labs/argocd-monorepo-controller) - 
 - [controlplaneio-fluxcd/flux-operator](https://github.com/controlplaneio-fluxcd/flux-operator) - GitOps on Autopilot Mode
