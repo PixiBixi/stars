@@ -1086,6 +1086,7 @@
 
 ## Others 
 
+- [aptakube/aptakube](https://github.com/aptakube/aptakube) - Modern, lightweight and multi-cluster Kubernetes GUI. Available on Windows, macOS and Linux.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [rohitg00/awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers) - A curated list of awesome MCP servers focused on DevOps tools and capabilities.
 - [zamazan4ik/awesome-pgo](https://github.com/zamazan4ik/awesome-pgo) - Various materials about Profile Guided Optimization and other similar stuff like AutoFDO, Bolt, etc.
@@ -1317,6 +1318,7 @@
 - [rbanffy/pip-chill](https://github.com/rbanffy/pip-chill) - A more relaxed `pip freeze`
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [lyz-code/yamlfix](https://github.com/lyz-code/yamlfix) - A simple opinionated yaml formatter that keeps your comments!
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [ovh/python-ovh](https://github.com/ovh/python-ovh) - Thin wrapper around OVH's APIs. Handles all the hard work including credential creation and requests signing.
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
@@ -1869,7 +1871,6 @@
 ## Svelte 
 
 - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 
 ## Swift 
