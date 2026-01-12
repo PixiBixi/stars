@@ -233,6 +233,7 @@
 
 ## Elixir 
 
+- [carverauto/serviceradar](https://github.com/carverauto/serviceradar) - opensource network management and observability platform
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 
 ## Elm 
@@ -283,7 +284,6 @@
 - [gabeduke/kubectl-iexec](https://github.com/gabeduke/kubectl-iexec) - Kubectl plugin to interactively exec into a pod
 - [logbull/logbull](https://github.com/logbull/logbull) - Log Bull - simple log collection and view system. Self hosted, zero-config, support of languages (Python, Go, Java, PHP, etc.). Simple alternative to ELK and Loki
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [carverauto/serviceradar](https://github.com/carverauto/serviceradar) - opensource network management and observability platform
 - [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
 - [applejag/kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
 - [NimbleArchitect/kubectl-ice](https://github.com/NimbleArchitect/kubectl-ice) - Kubectl-ice is an open-source tool for Kubernetes users to monitor and optimize container resource usage. Features include usage breakdowns for pods and containers, making scaling and optimization eas
