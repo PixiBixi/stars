@@ -627,7 +627,7 @@
 - [kubepug/kubepug](https://github.com/kubepug/kubepug) - Kubernetes PreUpGrade (Checker)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
-- [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
+- [dkron-io/dkron](https://github.com/dkron-io/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
@@ -774,6 +774,7 @@
 
 ## Go Template 
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
 - [CloudPirates-io/helm-charts](https://github.com/CloudPirates-io/helm-charts) - This repository contains public Helm Charts for commonly used software
 - [bjw-s-labs/helm-charts](https://github.com/bjw-s-labs/helm-charts) - A collection of Helm charts
 
@@ -1869,7 +1870,6 @@
 ## Smarty 
 
 - [codecentric/cluster-overprovisioner](https://github.com/codecentric/cluster-overprovisioner) - Helm chart, that enables scheduled scaling of a target resource, intended to be add overprovisioning to an autoscaling k8s cluster.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
 - [DependencyTrack/helm-charts](https://github.com/DependencyTrack/helm-charts) - Helm Charts for Dependency-Track
 - [grafana/k8s-monitoring-helm](https://github.com/grafana/k8s-monitoring-helm) - 
 
