@@ -3174,6 +3174,7 @@
 
 ## others 
 
+- [AliyunContainerService/kubernetes-cronhpa-controller](https://github.com/AliyunContainerService/kubernetes-cronhpa-controller) - ⏰kubernetes-cronhpa-controller is a HPA controller that allows to scale your workload based on time schedule.
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
@@ -3575,7 +3576,7 @@
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [PProvost/vim-ps1](https://github.com/PProvost/vim-ps1) - A Vim plugin for Windows PowerShell support
 - [denyhosts/denyhosts](https://github.com/denyhosts/denyhosts) - Automated host blocking from SSH brute force attacks
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
+- [kubernetes-retired/dashboard](https://github.com/kubernetes-retired/dashboard) - General-purpose web UI for Kubernetes clusters
 - [toland/qlmarkdown](https://github.com/toland/qlmarkdown) - QuickLook generator for Markdown files.
 - [m242/maildrop](https://github.com/m242/maildrop) - MailDrop is an open-source, scalable, high-performance version of Mailinator.
 - [kenwheeler/brogrammer-theme](https://github.com/kenwheeler/brogrammer-theme) - Brogrammer is a flat sexy Sublime Text theme. Pushups not included.
