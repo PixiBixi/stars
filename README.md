@@ -106,7 +106,7 @@
 - [jiangwenyuan/nuster](https://github.com/jiangwenyuan/nuster) - A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [a2o/snoopy](https://github.com/a2o/snoopy) - Snoopy Command Logger is a small library that logs all program executions on your Linux/BSD system.
 - [bdamele/icmpsh](https://github.com/bdamele/icmpsh) - Simple reverse ICMP shell
 - [hishamhm/htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
@@ -259,6 +259,7 @@
 
 ## Go 
 
+- [kubestellar/kubestellar](https://github.com/kubestellar/kubestellar) - KubeStellar - a flexible solution for multi-cluster configuration management for edge, multi-cloud, and hybrid cloud
 - [enix/topomatik](https://github.com/enix/topomatik) - You don't have to do anything, it's all Topomatik™!
 - [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server) - The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
@@ -354,7 +355,6 @@
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [nilic/kubectl-netshoot](https://github.com/nilic/kubectl-netshoot) - kubectl plugin for spinning up netshoot container for network troubleshooting
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources
-- [LEGO/kube-tf-reconciler](https://github.com/LEGO/kube-tf-reconciler) - Kubernetes Operator for reconciling terraform resources
 - [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
 - [Azure/karpenter-provider-azure](https://github.com/Azure/karpenter-provider-azure) - AKS Karpenter Provider
 - [topolvm/topolvm](https://github.com/topolvm/topolvm) - Capacity-aware CSI plugin for Kubernetes
@@ -871,6 +871,7 @@
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [superstreamlabs/kafka-analyzer](https://github.com/superstreamlabs/kafka-analyzer) - Interactive CLI for analyzing Kafka health and configuration according to best practices and industry standards.
 - [KSJaay/Lunalytics](https://github.com/KSJaay/Lunalytics) - 🚀 Open source monitoring tool built with Node.js
+- [LEGO/kube-tf-reconciler](https://github.com/LEGO/kube-tf-reconciler) - Kubernetes Operator for reconciling terraform resources
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
