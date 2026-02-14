@@ -86,7 +86,6 @@
 - [framework](#framework)
 - [frontend](#frontend)
 - [games](#games)
-- [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -269,7 +268,6 @@
 
 ## ai-agents 
 
-- [pedramamini/Maestro](https://github.com/pedramamini/Maestro) - Agent Orchestration Command Center
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 
 ## analytics 
@@ -1407,10 +1405,6 @@
 ## games 
 
 - [ohhsodead/FileMasta](https://github.com/ohhsodead/FileMasta) - A search application to explore, discover and share online files
-
-## generative-ai 
-
-- [pedramamini/Maestro](https://github.com/pedramamini/Maestro) - Agent Orchestration Command Center
 
 ## git 
 
