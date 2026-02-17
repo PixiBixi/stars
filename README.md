@@ -190,7 +190,6 @@
 - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 - [Naereen/Nginx-Fancyindex-Theme](https://github.com/Naereen/Nginx-Fancyindex-Theme) - A :iphone: responsive theme for Nginx Fancyindex module :wrench:. Minimal, modern and simple. ☀ Light & 😎 Dark themes. Comes with a search form :mag_right:, aims to handle thousands of files without a
 - [taniadaniela/n1-agapanthus](https://github.com/taniadaniela/n1-agapanthus) - Nylas N1 theme, inspired on Inbox by Google and based on Taiga.
-- [NamoDev/Asgard](https://github.com/NamoDev/Asgard) - The community release version of Project Elyria, the PHP/Laravel-based Looking Glass server
 - [ramnode/LookingGlass](https://github.com/ramnode/LookingGlass) - A Python-backed Looking Glass in the spirit of https://github.com/telephone/LookingGlass
 - [toland/qlmarkdown](https://github.com/toland/qlmarkdown) - QuickLook generator for Markdown files.
 - [m242/maildrop](https://github.com/m242/maildrop) - MailDrop is an open-source, scalable, high-performance version of Mailinator.
@@ -451,7 +450,7 @@
 - [kobsio/klogs](https://github.com/kobsio/klogs) - Fast, scalable and reliable logging using Fluent Bit and ClickHouse
 - [monkale-io/coredns-manager-operator](https://github.com/monkale-io/coredns-manager-operator) - With the CoreDNS Manager Operator, you can handle internal DNS directly within your Kubernetes cluster, simplifying the process and reducing infrastructure needs.
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Goog
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
 - [kubernetes-sigs/prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) - An implementation of the custom.metrics.k8s.io API using Prometheus
 - [jaypipes/ghw](https://github.com/jaypipes/ghw) - Go HardWare discovery/inspection library
@@ -1498,7 +1497,6 @@
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [RIPE-Atlas-Community/ripe-atlas-community-contrib](https://github.com/RIPE-Atlas-Community/ripe-atlas-community-contrib) - Repository for links towards tools written during hackathons, and a collection of contributions by the community of the RIPE Atlas visualizations, tools for analysing measurements data and other scrip
 - [bjarneo/Pytify](https://github.com/bjarneo/Pytify) - A CLI application for controlling Spotify
-- [owtf/owtf](https://github.com/owtf/owtf) - Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [farcaller/DashDoc](https://github.com/farcaller/DashDoc) - Dash integration for Sublime Text
 - [brona/iproute2mac](https://github.com/brona/iproute2mac) - CLI wrapper for basic network utilites on Mac OS X inspired with iproute2 on Linux systems - ip command.
@@ -1901,6 +1899,7 @@
 
 ## TypeScript 
 
+- [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [RunMaestro/Maestro](https://github.com/RunMaestro/Maestro) - Agent Orchestration Command Center
 - [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
@@ -1999,6 +1998,7 @@
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
+- [owtf/owtf](https://github.com/owtf/owtf) - Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
