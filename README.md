@@ -847,7 +847,6 @@
 - [Aiven-Open/tiered-storage-for-apache-kafka](https://github.com/Aiven-Open/tiered-storage-for-apache-kafka) - RemoteStorageManager for Apache Kafka® Tiered Storage
 - [buildfarm/buildfarm](https://github.com/buildfarm/buildfarm) - Bazel remote caching and execution service
 - [prometheus/jmx_exporter](https://github.com/prometheus/jmx_exporter) - A process for collecting metrics using JMX MBeans for Prometheus consumption
-- [kafbat/kafka-ui](https://github.com/kafbat/kafka-ui) - Open-Source Web UI for managing Apache Kafka clusters
 - [PacoVK/tapir](https://github.com/PacoVK/tapir) - A Private Terraform Registry
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes
 - [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
@@ -1913,13 +1912,14 @@
 - [argoproj-labs/assistant-for-argocd](https://github.com/argoproj-labs/assistant-for-argocd) - 
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) - Search Engine Position Rank Tracking App
 - [cars10/elasticvue](https://github.com/cars10/elasticvue) - Elasticsearch gui - desktop app, browser extension, docker, self hosted
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [kobsio/kobs](https://github.com/kobsio/kobs) - Kubernetes Observability Platform
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [replicatedhq/ttl.sh](https://github.com/replicatedhq/ttl.sh) - An anonymous & ephemeral Docker image registry
+- [kafbat/kafka-ui](https://github.com/kafbat/kafka-ui) - Open-Source Web UI for managing Apache Kafka clusters
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - Monokle is a set of OSS tools designed to help create and maintain high-quality Kubernetes configurations throughout the application lifecycle
