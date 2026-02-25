@@ -3349,7 +3349,7 @@
 - [kubesphere/kube-events](https://github.com/kubesphere/kube-events) - K8s Event Exporting, Filtering and Alerting in Multi-Tenant Environment
 - [kdave/btrfsmaintenance](https://github.com/kdave/btrfsmaintenance) - Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories.
 - [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
-- [block/spirit](https://github.com/block/spirit) - Online Schema Change Tool for MySQL 8.0+
+- [block/spirit](https://github.com/block/spirit) - Online schema change and data operations for MySQL 8.0+
 - [jpbetz/auger](https://github.com/jpbetz/auger) - Directly access data objects stored in etcd by kubernetes.
 - [mkaz/termgraph](https://github.com/mkaz/termgraph) - A Python command-line and library that draws basic graphs in the terminal
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
