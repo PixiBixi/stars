@@ -182,6 +182,7 @@
 
 ## CSS 
 
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [appvia/terranetes](https://github.com/appvia/terranetes) - Self serve cloud resources with Terraform & Kubernetes
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [someone-stole-my-name/gShort](https://github.com/someone-stole-my-name/gShort) - URL Shortener without all the crap
@@ -258,6 +259,7 @@
 
 ## Go 
 
+- [prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter) - Elasticsearch stats exporter for Prometheus
 - [aptible/supercronic](https://github.com/aptible/supercronic) - Cron for containers
 - [kubestellar/kubestellar](https://github.com/kubestellar/kubestellar) - KubeStellar - a flexible solution for multi-cluster configuration management for edge, multi-cloud, and hybrid cloud
 - [enix/topomatik](https://github.com/enix/topomatik) - You don't have to do anything, it's all Topomatik™!
@@ -699,6 +701,7 @@
 - [amimof/node-cert-exporter](https://github.com/amimof/node-cert-exporter) - An SSL certificate Prometheus exporter
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+- [pritunl/pritunl-client](https://github.com/pritunl/pritunl-client) - Pritunl OpenVPN client
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [mattn/docx2md](https://github.com/mattn/docx2md) - Convert Microsoft Word Document to Markdown
@@ -805,7 +808,6 @@
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
 - [grafana/xk6-dashboard](https://github.com/grafana/xk6-dashboard) - A k6 extension that makes k6 metrics available on a web-based dashboard.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
@@ -1986,7 +1988,6 @@
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
-- [pritunl/pritunl-client](https://github.com/pritunl/pritunl-client) - Pritunl OpenVPN client
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
