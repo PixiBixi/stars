@@ -259,6 +259,7 @@
 
 ## Go 
 
+- [SoulKyu/cpg](https://github.com/SoulKyu/cpg) - Cillium Policy Generator using hubble relay
 - [terraform-linters/tflint-ruleset-google](https://github.com/terraform-linters/tflint-ruleset-google) - TFLint ruleset for terraform-provider-google
 - [prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter) - Elasticsearch stats exporter for Prometheus
 - [aptible/supercronic](https://github.com/aptible/supercronic) - Cron for containers
@@ -520,7 +521,6 @@
 - [hypnoglow/helm-s3](https://github.com/hypnoglow/helm-s3) - ⎈ Helm plugin that adds support for AWS S3 as a chart repository.
 - [kubesphere/kube-events](https://github.com/kubesphere/kube-events) - K8s Event Exporting, Filtering and Alerting in Multi-Tenant Environment
 - [wbh1/grafana-sqlite-to-postgres](https://github.com/wbh1/grafana-sqlite-to-postgres) - Grafana SQLite to Postgres Database Migrator
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
 - [evryn/kermoo](https://github.com/evryn/kermoo) - 🪱 Kermoo offers resilience testing with Process Delays, Back-end Failures, CPU Simulations, and Memory Leaks. Boost your system reliability effortlessly.
@@ -816,6 +816,7 @@
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - Tool for rendering manifest changes on pull requests.
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template Built for AI-Assisted Development
 - [htr-tech/zphisher](https://github.com/htr-tech/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
 - [Anant/awesome-solr](https://github.com/Anant/awesome-solr) - A curated list of Awesome Apache Solr links and resources.
@@ -1339,7 +1340,7 @@
 
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [timvink/mkdocs-git-revision-date-localized-plugin](https://github.com/timvink/mkdocs-git-revision-date-localized-plugin) - MkDocs plugin to add a last updated date to your site pages
-- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 13 sub-skills, 6 subagents, extensions system with DataForSEO MCP integration. Technical SEO, E-E-A-T, schema, GEO/AEO, and strategic planning.
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 13 sub-skills, 7 subagents, extensions system with DataForSEO MCP integration. Technical SEO, E-E-A-T, schema, GEO/AEO, and strategic planning.
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
