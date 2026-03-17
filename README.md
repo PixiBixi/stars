@@ -20,7 +20,6 @@
 - [Emacs Lisp](#emacs-lisp)
 - [F#](#f#)
 - [FreeMarker](#freemarker)
-- [GLSL](#glsl)
 - [Go](#go)
 - [Go Template](#go-template)
 - [Groovy](#groovy)
@@ -252,10 +251,6 @@
 ## FreeMarker 
 
 - [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
-
-## GLSL 
-
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 
 ## Go 
 
@@ -1324,7 +1319,7 @@
 - [zonemaster/zonemaster](https://github.com/zonemaster/zonemaster) - The Zonemaster Project
 - [liske/needrestart](https://github.com/liske/needrestart) - Restart daemons after library updates.
 - [manuelkasper/AS-Stats](https://github.com/manuelkasper/AS-Stats) - A simple tool to generate per-AS traffic graphs from NetFlow/sFlow records
-- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Make your diffs human readable for improved code quality and faster defect detection. :tada:
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
 - [major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) - MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.
 - [webmin/authentic-theme](https://github.com/webmin/authentic-theme) - Official theme for the best server management panel of the 21st Century
@@ -1603,6 +1598,7 @@
 
 ## Rust 
 
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli) - CLI for internet speed test via cloudflare
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
@@ -1792,6 +1788,7 @@
 - [linuxserver/docker-smokeping](https://github.com/linuxserver/docker-smokeping) - 
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
 - [blacklabelops-legacy/nginx](https://github.com/blacklabelops-legacy/nginx) - Dockerized Ready-To-Go Nginx Reverse Proxy. Let's encrypt Support!
 - [lamw/ghettoVCB](https://github.com/lamw/ghettoVCB) - ghettoVCB
