@@ -430,7 +430,7 @@
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 - [robscott/kube-capacity](https://github.com/robscott/kube-capacity) - A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
 - [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero
-- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Kubernetes-native Continuous Testing Platform for Cloud-Native Applications
+- [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Testkube is a Test Orchestration Platform for Cloud Native Applications
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
