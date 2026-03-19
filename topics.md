@@ -1745,6 +1745,7 @@
 
 ## google 
 
+- [prometheus-community/stackdriver_exporter](https://github.com/prometheus-community/stackdriver_exporter) - Google Stackdriver Prometheus exporter
 - [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) - An active monitoring software to detect failures before your customers do.
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
