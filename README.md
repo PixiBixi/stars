@@ -311,7 +311,7 @@
 - [kubeovn/kube-ovn](https://github.com/kubeovn/kube-ovn) - A Bridge between SDN and Cloud Native (Project under CNCF)
 - [ymtdzzz/otel-tui](https://github.com/ymtdzzz/otel-tui) - A terminal OpenTelemetry viewer inspired by otel-desktop-viewer
 - [kube-burner/kube-burner](https://github.com/kube-burner/kube-burner) - Kubernetes performance and scale test orchestration framework written in golang
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [DataDog/KubeHound](https://github.com/DataDog/KubeHound) - Tool for building Kubernetes attack paths
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [helm-unittest/helm-unittest](https://github.com/helm-unittest/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.
@@ -1407,6 +1407,7 @@
 - [haidaraM/ansible-playbook-grapher](https://github.com/haidaraM/ansible-playbook-grapher) - A command line tool to create a graph representing your Ansible playbook tasks and roles
 - [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
 - [ansible-community/ara](https://github.com/ansible-community/ara) - ARA Records Ansible and makes it easier to understand and troubleshoot.
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [aquasecurity/kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunt for security weaknesses in Kubernetes clusters
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -1980,7 +1981,6 @@
 - [traceo-dev/traceo](https://github.com/traceo-dev/traceo) - Traceo is a self-hosted bug tracking and performance monitoring system.
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager
