@@ -2620,6 +2620,7 @@
 - [ad1822/hyprdots](https://github.com/ad1822/hyprdots) - 🫟 Awesome Hyprland Dotfiles
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome!
 - [cozystack/talm](https://github.com/cozystack/talm) - Manage Talos Linux the GitOps Way!
+- [FoobarOy/foomuuri](https://github.com/FoobarOy/foomuuri) - Multizone bidirectional nftables firewall
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
@@ -3332,7 +3333,6 @@
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency a
 - [furkanonder/DnsTrace](https://github.com/furkanonder/DnsTrace) - Monitor DNS queries by host processes using eBPF!
 - [crdsdev/doc](https://github.com/crdsdev/doc) - Automatic documentation for CustomResourceDefinitions
-- [FoobarOy/foomuuri](https://github.com/FoobarOy/foomuuri) - Multizone bidirectional nftables firewall
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [tykling/dns_exporter](https://github.com/tykling/dns_exporter) - A multi-target Prometheus exporter with an exclusive focus on DNS monitoring.
 - [admiraltyio/admiralty](https://github.com/admiraltyio/admiralty) - A system of Kubernetes controllers that intelligently schedules workloads across clusters.
