@@ -2336,6 +2336,7 @@
 
 ## kubernetes 
 
+- [sstarcher/helm-exporter](https://github.com/sstarcher/helm-exporter) - Export helm stats into the Prometheus format
 - [sergelogvinov/proxmox-cloud-controller-manager](https://github.com/sergelogvinov/proxmox-cloud-controller-manager) - Kubernetes cloud controller manager for Proxmox
 - [groundcover-com/caretta](https://github.com/groundcover-com/caretta) - Instant K8s service dependency map, right to your Grafana.
 - [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run anywhere - desktop, cluster, docker.
@@ -2974,6 +2975,7 @@
 
 ## monitoring 
 
+- [sstarcher/helm-exporter](https://github.com/sstarcher/helm-exporter) - Export helm stats into the Prometheus format
 - [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run anywhere - desktop, cluster, docker.
 - [postfinance/kubenurse](https://github.com/postfinance/kubenurse) - Kubernetes network monitoring
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
