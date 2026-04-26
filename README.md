@@ -822,6 +822,7 @@
 
 ## HTML 
 
+- [dominikhei/cardamon](https://github.com/dominikhei/cardamon) - Cardamon is a cleanup tool for Prometheus that collects unused metrics from Grafana and Prometheus and generates drop statements for them.
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [grafana/xk6-dashboard](https://github.com/grafana/xk6-dashboard) - A k6 extension that makes k6 metrics available on a web-based dashboard.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
@@ -1191,7 +1192,7 @@
 - [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
 - [berzerk0/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
 - [FuriKuri/docker-best-practices](https://github.com/FuriKuri/docker-best-practices) - Collection of some docker practices
-- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
+- [nilbuild/design-patterns-for-humans](https://github.com/nilbuild/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [oerdnj/deb.sury.org](https://github.com/oerdnj/deb.sury.org) - Migrated to https://codeberg.org/oerdnj/deb.sury.org
 - [ShareX/CustomUploaders](https://github.com/ShareX/CustomUploaders) - ShareX custom uploaders
 - [Kapeli/feeds](https://github.com/Kapeli/feeds) - Collection of Dash docset feeds
