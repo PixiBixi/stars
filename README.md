@@ -288,7 +288,7 @@
 - [postfinance/kubenurse](https://github.com/postfinance/kubenurse) - Kubernetes network monitoring
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [prometheus-community/stackdriver_exporter](https://github.com/prometheus-community/stackdriver_exporter) - Google Stackdriver Prometheus exporter
-- [SoulKyu/cpg](https://github.com/SoulKyu/cpg) - Cillium Policy Generator using hubble relay
+- [SoulKyu/cpg](https://github.com/SoulKyu/cpg) - Cilium Policy Generator using hubble relay
 - [terraform-linters/tflint-ruleset-google](https://github.com/terraform-linters/tflint-ruleset-google) - TFLint ruleset for terraform-provider-google
 - [prometheus-community/elasticsearch_exporter](https://github.com/prometheus-community/elasticsearch_exporter) - Elasticsearch stats exporter for Prometheus
 - [aptible/supercronic](https://github.com/aptible/supercronic) - Cron for containers
