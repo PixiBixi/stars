@@ -1377,6 +1377,7 @@
 
 ## Python 
 
+- [google/slo-generator](https://github.com/google/slo-generator) - SLO Generator computes SLIs, SLOs, Error Budgets and Burn Rates from supported backends, then exports an SLO report to supported targets.
 - [electrolux-oss/infrakitchen](https://github.com/electrolux-oss/infrakitchen) - InfraKitchen is an open source Developer Platform that brings Platform Engineering practices to infrastructure management. Created by SRE team. Proven at Electrolux.
 - [peteromallet/desloppify](https://github.com/peteromallet/desloppify) - Agent harness to make your slop code well-engineered and beautiful.
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
@@ -1646,11 +1647,12 @@
 
 ## Rust 
 
+- [robiot/rustcat](https://github.com/robiot/rustcat) - Rustcat(rcat) - The modern Port listener and Reverse shell
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [0xMassi/webclaw](https://github.com/0xMassi/webclaw) - Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
-- [rocky-data/rocky](https://github.com/rocky-data/rocky) - The trust plane for your warehouse — typed compiler, branches, replay, column-level lineage, compile-time contracts, per-model cost. Adapters: Databricks, Snowflake, BigQuery, DuckDB. Single static Ru
+- [rocky-data/rocky](https://github.com/rocky-data/rocky) - The typed graph between your code and whichever warehouse, table format, or query engine you've chosen — typed compiler, branches, replay, column-level lineage, compile-time contracts, per-model cost.
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
