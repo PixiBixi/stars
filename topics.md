@@ -3437,7 +3437,7 @@
 - [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
 - [logbull/logbull](https://github.com/logbull/logbull) - Log Bull - simple log collection and view system. Self hosted, zero-config, support of languages (Python, Go, Java, PHP, etc.). Simple alternative to ELK and Loki
 - [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images
-- [carverauto/serviceradar](https://github.com/carverauto/serviceradar) - Zero-trust Opensource Network Management and Observability Platform
+- [carverauto/serviceradar](https://github.com/carverauto/serviceradar) - Open-Source Network Management, ITOM, and Security Analytics platform
 - [s2-streamstore/cachey](https://github.com/s2-streamstore/cachey) - Read-through cache for object storage
 - [CloudPirates-io/helm-charts](https://github.com/CloudPirates-io/helm-charts) - This repository contains public Helm Charts for commonly used software
 - [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency.
