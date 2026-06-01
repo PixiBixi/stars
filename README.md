@@ -264,6 +264,7 @@
 
 ## Go 
 
+- [thought-machine/prometheus-cardinality-exporter](https://github.com/thought-machine/prometheus-cardinality-exporter) - Metric cardinality exporter for Prometheus
 - [medik8s/node-healthcheck-operator](https://github.com/medik8s/node-healthcheck-operator) - K8s Node Health Check Operator
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [mrjosh/helm-ls](https://github.com/mrjosh/helm-ls) - ⎈ Language server for Helm ⎈
@@ -1772,7 +1773,6 @@
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [R0GGER/public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers) - A list of public iPerf3 servers...
-- [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - ProxMenux An Interactive Menu for Proxmox VE Management
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M2, M3) Macs
@@ -1995,6 +1995,7 @@
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [pehlicd/crd-wizard](https://github.com/pehlicd/crd-wizard) - CR(D) Wizard is a web and tui based dashboard designed to provide a clear and intuitive interface for visualizing and exploring Kubernetes Custom Resource Definitions (CRDs) and their corresponding Cu
 - [aptakube/kubespec.dev](https://github.com/aptakube/kubespec.dev) - Kubernetes Spec Explorer
+- [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - ProxMenux An Interactive Menu for Proxmox VE Management
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [argoproj-labs/assistant-for-argocd](https://github.com/argoproj-labs/assistant-for-argocd) - 
 - [towfiqi/serpbear](https://github.com/towfiqi/serpbear) - Search Engine Position Rank Tracking App
@@ -2030,7 +2031,7 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager
