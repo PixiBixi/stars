@@ -3540,7 +3540,7 @@
 - [kubernetes-sigs/ingress2gateway](https://github.com/kubernetes-sigs/ingress2gateway) - Convert Ingress resources to Gateway API resources
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
-- [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
+- [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a program's TCP, UDP, and DNS traffic to SOCKS5 or HTTP proxies.
 - [corneliusweig/ketall](https://github.com/corneliusweig/ketall) - Like `kubectl get all`, but get really all resources
 - [facetoe/promformat](https://github.com/facetoe/promformat) - PromQL formatter
 - [google/capirca](https://github.com/google/capirca) - Multi-platform ACL generation system
