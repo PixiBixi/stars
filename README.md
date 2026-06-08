@@ -837,7 +837,6 @@
 ## HCL 
 
 - [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) - Terraform Module for deploying an AKS cluster
-- [RoseSecurity/terrafetch](https://github.com/RoseSecurity/terrafetch) - The Neofetch of Terraform. Let your IaC flex for you.
 - [aws-ia/terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints) - Configure and deploy complete EKS clusters.
 - [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
 - [Mareo/infrastructure](https://github.com/Mareo/infrastructure) - 
