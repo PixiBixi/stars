@@ -297,7 +297,7 @@
 - [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works
 - [sergelogvinov/proxmox-cloud-controller-manager](https://github.com/sergelogvinov/proxmox-cloud-controller-manager) - Kubernetes cloud controller manager for Proxmox
 - [groundcover-com/caretta](https://github.com/groundcover-com/caretta) - Instant K8s service dependency map, right to your Grafana.
-- [getplumber/plumber](https://github.com/getplumber/plumber) - Open source CLI to check compliance of your CI/CD pipelines and repos
+- [getplumber/plumber](https://github.com/getplumber/plumber) - Plumber detects CI/CD security issues in your GitHub workflows and gives you a score
 - [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run anywhere - desktop, cluster, docker.
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm management.
@@ -1279,7 +1279,7 @@
 - [gajus/xhprof.io](https://github.com/gajus/xhprof.io) - GUI to analyze the profiling data collected using XHProf – A Hierarchical Profiler for PHP.
 - [phacility/xhprof](https://github.com/phacility/xhprof) - XHProf is a function-level hierarchical profiler for PHP and has a simple HTML based user interface.
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based
-- [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
+- [sergix44/xbackbone](https://github.com/sergix44/xbackbone) - A lightweight file manager with full ShareX support and more
 - [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
 - [froxlor/froxlor](https://github.com/froxlor/froxlor) - The server administration software for your needs - The official Froxlor development Git repository
 - [Athlon1600/youtube-downloader](https://github.com/Athlon1600/youtube-downloader) - :tv: PHP based alternative to youtube-dl and yt-dlp. Active and frequently updated! :star:
