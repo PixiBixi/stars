@@ -76,6 +76,7 @@
 
 ## C 
 
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [zlib-ng/zlib-ng](https://github.com/zlib-ng/zlib-ng) - zlib replacement with optimizations for "next generation" systems.
 - [spinningfactory/kloak](https://github.com/spinningfactory/kloak) - Cloud native zero trust security for AI agents run environments
 - [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency.
@@ -266,6 +267,9 @@
 
 ## Go 
 
+- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
+- [kubara-io/kubara](https://github.com/kubara-io/kubara) - Kubara is a single binary CLI tool written in Go providing a lightweight framework for bootstrapping Kubernetes platforms with production-proven best practices.
+- [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [YElayyat/otel-cardinality-processor](https://github.com/YElayyat/otel-cardinality-processor) - 🛡️ Cardinality Guardian: A production-grade OpenTelemetry processor to prevent cardinality explosions and stop TSDB billing spikes.
@@ -919,6 +923,7 @@
 
 ## JavaScript 
 
+- [cycjimmy/semantic-release-action](https://github.com/cycjimmy/semantic-release-action) - GitHub Action for Semantic Release
 - [grafana/skills](https://github.com/grafana/skills) - 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [doctly/switchboard](https://github.com/doctly/switchboard) - A desktop app for browsing, searching, and managing CLI coding sessions
