@@ -2220,6 +2220,7 @@
 
 ## YAML 
 
+- [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps-driven Infrastructure as Code for my homelab
 - [k3s-io/k3s-ansible](https://github.com/k3s-io/k3s-ansible) - 
 
 ## templ 
