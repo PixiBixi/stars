@@ -64,7 +64,6 @@
 - [Vue](#vue)
 - [XSLT](#xslt)
 - [YAML](#yaml)
-- [templ](#templ)
 
 ## Assembly 
 
@@ -208,7 +207,7 @@
 - [toland/qlmarkdown](https://github.com/toland/qlmarkdown) - QuickLook generator for Markdown files.
 - [m242/maildrop](https://github.com/m242/maildrop) - MailDrop is an open-source, scalable, high-performance version of Mailinator.
 - [hail2u/vim-css3-syntax](https://github.com/hail2u/vim-css3-syntax) - CSS3 syntax (and syntax defined in some foreign specifications) support for Vim's built-in syntax/css.vim
-- [telephone/LookingGlass](https://github.com/telephone/LookingGlass) - A user-friendly PHP Looking Glass
+- [LupinTraderIII/LookingGlass](https://github.com/LupinTraderIII/LookingGlass) - A user-friendly PHP Looking Glass
 - [TheInsomniac/Nginx-Fancyindex-Theme](https://github.com/TheInsomniac/Nginx-Fancyindex-Theme) - Theme for Nginx' fancyindex module
 - [andreisergiu98/arc-flatabulous-theme](https://github.com/andreisergiu98/arc-flatabulous-theme) - Arc theme with Flatabulous window controls.
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
@@ -346,6 +345,7 @@
 - [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your t
 - [numberly/vault-db-injector](https://github.com/numberly/vault-db-injector) - The Vault DB Injector automates secure database credential management in Kubernetes using Hashicorp Vault, providing credential injection, renewal, and revocation for pods.
 - [flemzord/mutating-registry-webhook](https://github.com/flemzord/mutating-registry-webhook) - Kubernetes admission webhook that automatically rewrites container image references to use pull-through cache registries (ECR, corporate proxies) based on configurable rules.
+- [SoulKyu/notificator](https://github.com/SoulKyu/notificator) - Notificator is a Karma replacement for alertmanager with sounds and notifications
 - [kubernetes-sigs/cluster-proportional-autoscaler](https://github.com/kubernetes-sigs/cluster-proportional-autoscaler) - Kubernetes Cluster Proportional Autoscaler Container
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
 - [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
@@ -2224,10 +2224,6 @@
 
 - [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps-driven Infrastructure as Code for my homelab
 - [k3s-io/k3s-ansible](https://github.com/k3s-io/k3s-ansible) - 
-
-## templ 
-
-- [SoulKyu/notificator](https://github.com/SoulKyu/notificator) - Notificator is a Karma replacement for alertmanager with sounds and notifications
 
 
 ## License
