@@ -1587,6 +1587,7 @@
 
 ## git 
 
+- [mathieudutour/github-tag-action](https://github.com/mathieudutour/github-tag-action) - A Github Action to automatically bump and tag master, on merge, with the latest SemVer formatted version. Works on any platform.
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
 - [github/git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
 - [timvink/mkdocs-git-revision-date-localized-plugin](https://github.com/timvink/mkdocs-git-revision-date-localized-plugin) - MkDocs plugin to add a last updated date to your site pages
