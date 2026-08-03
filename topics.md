@@ -3498,6 +3498,7 @@
 
 ## others 
 
+- [hashicorp/agent-skills](https://github.com/hashicorp/agent-skills) - A collection of Agent skills and Claude Code plugins for HashiCorp products.
 - [dgunzy/flux9s](https://github.com/dgunzy/flux9s) - A K9s-inspired terminal UI for monitoring Flux resources in real-time
 - [cachix/secretspec](https://github.com/cachix/secretspec) - A declarative interface for every secret provider.
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
