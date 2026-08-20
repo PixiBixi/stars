@@ -54,7 +54,6 @@
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Starlark](#starlark)
-- [Svelte](#svelte)
 - [Swift](#swift)
 - [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
@@ -304,7 +303,7 @@
 - [github/git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
 - [saiyam1814/ing-switch](https://github.com/saiyam1814/ing-switch) - Migrate Kubernetes Ingress NGINX to Traefik or Gateway API — CLI + web UI
 - [sivchari/kumo](https://github.com/sivchari/kumo) - A lightweight AWS service emulator written in Go
-- [dominikhei/cardamon](https://github.com/dominikhei/cardamon) - Cardamon is a cleanup tool for Prometheus that collects unused metrics from Grafana and Prometheus and generates drop statements for them.
+- [dominikhei/cardamon](https://github.com/dominikhei/cardamon) - Cardamon is an audit tool for Prometheus that generates insight into unused metrics from Grafana and Prometheus.
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
 - [grafana/gcx](https://github.com/grafana/gcx) - A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage.
 - [sstarcher/helm-exporter](https://github.com/sstarcher/helm-exporter) - Export helm stats into the Prometheus format
@@ -1997,10 +1996,6 @@
 
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
-## Svelte 
-
-- [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
-
 ## Swift 
 
 - [us/mocker](https://github.com/us/mocker) - Docker-compatible container CLI built on Apple's Containerization framework. Same commands, same flags — mocker run, ps, stop, build, compose, stats — all working on macOS 26.
@@ -2054,6 +2049,7 @@
 - [replicatedhq/ttl.sh](https://github.com/replicatedhq/ttl.sh) - An anonymous & ephemeral Docker image registry
 - [kafbat/kafka-ui](https://github.com/kafbat/kafka-ui) - Open-Source Web UI for managing Apache Kafka clusters
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
+- [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - Monokle is a set of OSS tools designed to help create and maintain high-quality Kubernetes configurations throughout the application lifecycle
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
