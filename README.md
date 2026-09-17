@@ -249,6 +249,7 @@
 
 ## Elixir 
 
+- [carverauto/serviceradar](https://github.com/carverauto/serviceradar) - Open-Source Network Management, Monitoring, ITOM, and Security Analytics
 - [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
 
 ## Elm 
