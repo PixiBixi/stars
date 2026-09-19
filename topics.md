@@ -3687,7 +3687,7 @@
 - [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes
 - [kubernetes-sigs/sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner) - Static provisioner of local volumes
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
-- [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero
+- [laravel/zeropod](https://github.com/laravel/zeropod) - pod that scales down to zero
 - [aws-samples/networking-costs-calculator](https://github.com/aws-samples/networking-costs-calculator) - Sample of a networking costs calculator, helping to estimate the networking costs such as Data Transfer, Transit Gateway Attachments, NAT Gateways etc.
 - [argoproj-labs/argocd-autopilot](https://github.com/argoproj-labs/argocd-autopilot) - Argo-CD Autopilot
 - [target/reuse](https://github.com/target/reuse) - A simple Golang app to test TCP and SSL/TLS session reuse.
