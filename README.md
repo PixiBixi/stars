@@ -499,7 +499,7 @@
 - [kubeshop/tracetest](https://github.com/kubeshop/tracetest) - 🔭 Tracetest - Build integration and end-to-end tests in minutes, instead of days, using OpenTelemetry and trace-based testing.
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 - [robscott/kube-capacity](https://github.com/robscott/kube-capacity) - A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
-- [ctrox/zeropod](https://github.com/ctrox/zeropod) - pod that scales down to zero
+- [laravel/zeropod](https://github.com/laravel/zeropod) - pod that scales down to zero
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ The Open Testing Platform for AI-Driven Engineering Teams
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
@@ -960,7 +960,6 @@
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv—from the creator of `dotenv`
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [dnakov/little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls
 - [Crapworks/ceph-dash](https://github.com/Crapworks/ceph-dash) - Flask based api / dashboard for viewing a ceph clusters overall health status
 - [keymetrics/pm2-logrotate](https://github.com/keymetrics/pm2-logrotate) - Automatically rotate all applications logs managed by PM2
@@ -1466,6 +1465,7 @@
 - [google/capirca](https://github.com/google/capirca) - Multi-platform ACL generation system
 - [eslam-gomaa/kptop](https://github.com/eslam-gomaa/kptop) - A Python tool that offers beautiful CLI monitoring based on Prometheus metrics, with Kubernetes integration through PodPortForward
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [hellofresh/eks-rolling-update](https://github.com/hellofresh/eks-rolling-update) - EKS Rolling Update is a utility for updating the launch configuration of worker nodes in an EKS cluster.
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [mkaz/termgraph](https://github.com/mkaz/termgraph) - A Python command-line and library that draws basic graphs in the terminal
