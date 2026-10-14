@@ -549,6 +549,7 @@
 - [iximiuz/cdebug](https://github.com/iximiuz/cdebug) - cdebug - a swiss army knife of container debugging
 - [EladLeev/kubeseal-convert](https://github.com/EladLeev/kubeseal-convert) - A tool for importing secrets from a pre-existing secrets management systems (e.g. Vault, Secrets Manager) into a SealedSecret :shushing_face:
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [corneliusweig/ketall](https://github.com/corneliusweig/ketall) - Like `kubectl get all`, but get really all resources
@@ -630,7 +631,7 @@
 - [mehdy/keepalived-exporter](https://github.com/mehdy/keepalived-exporter) - Prometheus Keepalived exporter
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for misconfigured S3 buckets across S3-compatible APIs!
-- [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) is a Prometheus exporter that measures energy consumption metrics at the container, pod, and node levels in Kubernetes clusters.
+- [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) is a Prometheus exporter that measures energy consumption at the Kubernetes Pod and Node level. It reads hardware sensors, attributes power to 
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
 - [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
@@ -775,7 +776,7 @@
 - [mattn/docx2md](https://github.com/mattn/docx2md) - Convert Microsoft Word Document to Markdown
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Management Clients (for humans and agents)
 - [pldubouilh/gossa](https://github.com/pldubouilh/gossa) - 🎶 a fast and simple multimedia fileserver
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
@@ -1465,7 +1466,6 @@
 - [RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu) - The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance.
-- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [facetoe/promformat](https://github.com/facetoe/promformat) - PromQL formatter
 - [google/capirca](https://github.com/google/capirca) - Multi-platform ACL generation system
 - [eslam-gomaa/kptop](https://github.com/eslam-gomaa/kptop) - A Python tool that offers beautiful CLI monitoring based on Prometheus metrics, with Kubernetes integration through PodPortForward
@@ -2010,6 +2010,7 @@
 
 ## Swift 
 
+- [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) - Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.
 - [us/mocker](https://github.com/us/mocker) - Docker-compatible container CLI built on Apple's Containerization framework. Same commands, same flags, mocker run, ps, stop, build, compose, stats, all working on macOS 26.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [paniclock/paniclock](https://github.com/paniclock/paniclock) - Instantly disable Touch ID and lock your Mac with one click or keyboard shortcut.
@@ -2030,7 +2031,7 @@
 
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
-- [trailhq/Graft](https://github.com/trailhq/Graft) - Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.
+- [trailhq/Trail-Code](https://github.com/trailhq/Trail-Code) - Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.
 - [argoproj-labs/mcp-for-argocd](https://github.com/argoproj-labs/mcp-for-argocd) - An implementation of Model Context Protocol (MCP) server for Argo CD.
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
