@@ -270,7 +270,7 @@
 
 - [google/yamlfmt](https://github.com/google/yamlfmt) - An extensible command line tool or library to format yaml files.
 - [wrr/drop](https://github.com/wrr/drop) - Linux sandboxing that doesn't get in your way
-- [google/ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
+- [google/ax](https://github.com/google/ax) - Agent Executor (AX) is Google's open agentic orchestration runtime
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes  and reinforcement learning (RL).
 - [argoproj-labs/argocd-operator](https://github.com/argoproj-labs/argocd-operator) - 💤 The project is effectively dormant 💤
@@ -308,7 +308,7 @@
 - [caas-team/GoKubeDownscaler](https://github.com/caas-team/GoKubeDownscaler) - A horizontal autoscaler for Kubernetes workloads
 - [dragonflydb/dragonfly-operator](https://github.com/dragonflydb/dragonfly-operator) - A Kubernetes operator to install and manage Dragonfly instances.
 - [spidernet-io/egressgateway](https://github.com/spidernet-io/egressgateway) - Layer4 egress gateway for Kubernetes
-- [peak-scale/sops-operator](https://github.com/peak-scale/sops-operator) - Create SOPS Secrets on Kubernetes
+- [projectcapsule/sops-operator](https://github.com/projectcapsule/sops-operator) - Create SOPS Secrets on Kubernetes
 - [github/git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
 - [saiyam1814/ing-switch](https://github.com/saiyam1814/ing-switch) - Migrate Kubernetes Ingress NGINX to Traefik or Gateway API — CLI + web UI
 - [sivchari/kumo](https://github.com/sivchari/kumo) - A lightweight AWS service emulator written in Go
@@ -688,7 +688,7 @@
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
 - [fritchie/nvme_exporter](https://github.com/fritchie/nvme_exporter) - Prometheus exporter for nvme smart-log metrics
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database governance built for humans and agents — controlling changes and access across every major database.
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 - [rapidloop/pgmetrics](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
@@ -715,7 +715,7 @@
 - [jacksontj/promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus
 - [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy
-- [abahmed/kwatch](https://github.com/abahmed/kwatch) - :eyes: monitor & detect crashes in your Kubernetes(K8s) cluster instantly
+- [abahmed/kwatch](https://github.com/abahmed/kwatch) - Kubernetes incidents, explained. kwatch traces every cluster failure back to its root cause and sends one message: what broke, why, who changed it, and what to do next. Source available (ELv2).
 - [loveholidays/ripley](https://github.com/loveholidays/ripley) - Replay HTTP
 - [boz/kail](https://github.com/boz/kail) - kubernetes log viewer
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes
@@ -2141,7 +2141,6 @@
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [pd4d10/octohint](https://github.com/pd4d10/octohint) - The missing IntelliSense hint for GitHub and GitLab
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
@@ -2244,6 +2243,7 @@
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
