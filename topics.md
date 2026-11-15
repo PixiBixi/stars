@@ -3988,7 +3988,6 @@
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [rsc/2fa](https://github.com/rsc/2fa) - Two-factor authentication on the command line
 - [tadeck/onetimepass](https://github.com/tadeck/onetimepass) - One-time password library for HMAC-based (HOTP) and time-based (TOTP) passwords
-- [RaymiiOrg/certificate-expiry-monitor](https://github.com/RaymiiOrg/certificate-expiry-monitor) - https://certificatemonitor.org
 - [bobafetthotmail/refind-theme-regular](https://github.com/bobafetthotmail/refind-theme-regular) - 
 - [desimaniac/docs](https://github.com/desimaniac/docs) - Just some random guides and docs.
 - [ankushshah89/python-docx2txt](https://github.com/ankushshah89/python-docx2txt) - A pure python based utility to extract text and images from docx files.
