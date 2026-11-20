@@ -71,7 +71,7 @@
 ## Astro 
 
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 
 ## C 
 
@@ -354,7 +354,7 @@
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes
 - [argoproj-labs/argocd-monorepo-controller](https://github.com/argoproj-labs/argocd-monorepo-controller) - 
 - [controlplaneio-fluxcd/flux-operator](https://github.com/controlplaneio-fluxcd/flux-operator) - GitOps on Autopilot Mode
-- [haproxytech/haproxy-unified-gateway](https://github.com/haproxytech/haproxy-unified-gateway) - Haproxy controller to handle K8s Gateway API
+- [haproxytech/haproxy-unified-gateway](https://github.com/haproxytech/haproxy-unified-gateway) - Haproxy controller to handle K8s Gateway API https://www.haproxy.com/blog/announcing-haproxy-unified-gateway-1-1
 - [clbx/kubectl-browse-pvc](https://github.com/clbx/kubectl-browse-pvc) - Kubectl plugin for browsing PVCs on the command line
 - [topolvm/pvc-autoresizer](https://github.com/topolvm/pvc-autoresizer) - Auto-resize PersistentVolumeClaim objects based on Prometheus metrics
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
@@ -522,7 +522,7 @@
 - [target/reuse](https://github.com/target/reuse) - A simple Golang app to test TCP and SSL/TLS session reuse.
 - [target/goalert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert
 - [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
-- [haproxytech/kubernetes-ingress](https://github.com/haproxytech/kubernetes-ingress) - HAProxy Ingress Controller for Kubernetes https://www.haproxy.com/blog/announcing-haproxy-kubernetes-ingress-controller-3-2
+- [haproxytech/kubernetes-ingress](https://github.com/haproxytech/kubernetes-ingress) - HAProxy Ingress Controller for Kubernetes https://www.haproxy.com/blog/announcing-haproxy-kubernetes-ingress-controller-3-4
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts
 - [jlandowner/helm-chartsnap](https://github.com/jlandowner/helm-chartsnap) - Snapshot testing tool for Helm charts
@@ -643,6 +643,7 @@
 - [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for misconfigured S3 buckets across S3-compatible APIs!
 - [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler lets you monitor the energy use of Kubernetes workloads. Kepler is a CNCF Sandbox project. Let's make every watt matter. ⚡
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and 
+- [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [SuperQ/smokeping_prober](https://github.com/SuperQ/smokeping_prober) - Prometheus style smokeping
@@ -855,7 +856,7 @@
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI SRE · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfi
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [root-gg/wigo](https://github.com/root-gg/wigo) - Wigo, aka "What Is Going On" is a light pull/push monitoring tool written in Golang.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -1213,7 +1214,6 @@
 - [ioguix/pgsql-bloat-estimation](https://github.com/ioguix/pgsql-bloat-estimation) - Queries to mesure statistical bloat in indexes and tables for PostgreSQL
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
 - [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering
-- [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [david-cortes/snapper-in-debian-guide](https://github.com/david-cortes/snapper-in-debian-guide) - Step-by-step guide for configuring Debian with automated BTRFS snapshots and rollbacks from the boot menu
 - [Mindbaz/awesome-opensource-email](https://github.com/Mindbaz/awesome-opensource-email) - Awesome Opensource Email Resources
 - [felixnotka/rbac.dev](https://github.com/felixnotka/rbac.dev) - A collection of good practices and tools for Kubernetes RBAC
@@ -1717,7 +1717,7 @@
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [matthart1983/diskwatch](https://github.com/matthart1983/diskwatch) - Read-only disk diagnostics in your terminal. Inspect activity, capacity, health and busy files.
-- [getkern/kern](https://github.com/getkern/kern) - Rootless container runtime with no daemon. Runs agent tool calls and LLM-generated code in kernel-enforced containers.
+- [getkern/kern](https://github.com/getkern/kern) - a fast, rootless container runtime and sandbox, no daemon
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -1799,7 +1799,7 @@
 - [bluecatengineering/dora](https://github.com/bluecatengineering/dora) - A Rust DHCP server
 - [fcsonline/drill](https://github.com/fcsonline/drill) - Drill is an HTTP load testing application written in Rust
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [nivekuil/rip](https://github.com/nivekuil/rip) - A safe and ergonomic alternative to rm
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
